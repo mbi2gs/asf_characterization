@@ -1,0 +1,148 @@
+Emergent Metabolites
+Key: 2 = Didn't produce metabolite in spent (produced only in fresh)
+     3 = Newly consumed metabolite in spent (consumed only in spent)
+     5 = Not only didn't produce, but consumed metabolite in spent
+     7 = Newly produced in spent (produced only in spent)
+     11 = Didn't consume in spent (consumed only in fresh)
+     13 = Not only didn't consume, but produced metabolite in spent 
+
+
+ASF356
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+356in360	7	7	0	11	11	0	0	0	0	0	7	7	7	7	7	0	11	0	0	0	0	3	0	0	3	7	0	0	7	0	0	0	0	0	0	13
+356in361	0	0	0	11	11	0	3	0	11	11	7	0	0	0	0	0	0	0	11	0	0	7	7	0	7	0	0	0	0	0	0	0	0	7	0	13
+356in492	0	7	0	11	11	0	3	0	0	0	7	0	0	0	0	0	0	0	0	0	0	3	7	0	0	0	0	0	0	0	7	13	0	0	7	0
+356in500	7	7	0	11	11	0	3	0	11	11	7	0	0	0	0	0	11	0	11	0	11	0	0	0	0	0	7	0	0	0	0	11	0	0	7	0
+356in502	7	7	0	11	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	7	0	0
+356in519	7	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unique Emergent Metabolites:
+Methionine	7	356in360
+Succinate	7	356in360
+Aspartate	7	356in360
+Lysine	7	356in360
+Betaine	7	356in519
+Glucose	11	356in500
+Tyrosine	7	356in360
+Histidine	7	356in500
+Phenylalanine	7	356in360
+Adenine	7	356in502
+Inosine	7	356in492
+
+ASF360
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+360in356	0	7	0	7	7	0	0	0	2	0	7	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	2	0	0	2	0	13	0	2	0	0
+360in361	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	7	0	0	0	2	0	0	0	0	0	0	2	0	0
+360in492	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	2	2	0	0	0	7	0	0	0	2	0	0	0	7	0	0	2	0	0
+360in500	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	11	7	0	7	0	0	0	0	0	2	0	11	0	2	0	0
+360in502	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	2	0	0	2	0	0	7	2	0	0
+360in519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0
+Unique Emergent Metabolites:
+Butyrate	7	360in500
+Isovalerate	7	360in356
+Valine	7	360in356
+Isoleucine	7	360in356
+Acetate	7	360in356
+Proline	3	360in492
+Betaine	7	360in519
+Glucose	11	360in500
+Uracil	7	360in500
+Urocanate	7	360in500
+Inosine	7	360in492
+Formate	7	360in502
+
+ASF361
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+361in356	7	7	0	7	7	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	11	0	11	0	0	0	0	0	0	0	0	7	0	13
+361in360	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	3	3	0	0	0	11	0	11	0	3	0	0	0	0	0	0	0	0	0
+361in492	3	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	13	0	13	0	0	0	0	0	7	0	0	0	0	0
+361in500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	7	11	7	11	0	7	0	0	0	0	0	0	0	0	0
+361in502	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	7	11	0	13	0	0	0	0	0	0	0	2	7	0	13
+361in519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	7	0	0	11	0	11	0	0	0	0	0	0	0	0	0	0	0
+Unique Emergent Metabolites:
+Isovalerate	7	361in356
+Valine	7	361in356
+Isoleucine	7	361in356
+Glycine	3	361in360
+Threonine	3	361in360
+Betaine	7	361in519
+Urocanate	7	361in500
+Inosine	7	361in492
+Formate	2	361in502
+
+ASF492
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+492in356	2	7	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	2	11	0	3	0	0	0	0	2	11	0	0	0	7	0
+492in360	2	0	0	0	7	0	0	0	0	7	7	7	0	0	0	0	0	0	0	0	0	0	11	3	0	7	3	0	7	0	0	0	0	3	0	0
+492in361	2	0	0	0	0	7	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	13	0	7	7	0	0	0	0	11	0	0	7	0	0
+492in500	0	7	0	0	7	7	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	11	7	0	0	7	0	0	0	11	11	0	0	7	0
+492in502	2	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	11	0	0	0	0	0	0	0	11	13	0	7	0	0
+492in519	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	11	0	0	0	0
+Unique Emergent Metabolites:
+Alanine	7	492in360
+Methionine	7	492in360
+Glucose	13	492in502
+Uracil	2	492in356
+Phenylalanine	7	492in360
+Adenine	2	492in356
+
+ASF500
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+500in356	7	7	0	7	7	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	11	0	0	0	0	7	2	0	7	0
+500in360	0	0	0	0	7	7	0	0	0	7	7	7	0	0	0	0	0	3	0	0	0	0	7	7	0	7	11	0	0	0	0	0	0	3	0	13
+500in361	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	7	7	0	0	11	0	0	0	0	0	0	0	0	0
+500in492	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	7	7	0	0	11	0	0	0	7	7	0	0	7	0
+500in502	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	7	0	7	0	0	11	0	0	0	0	7	2	0	0	0
+500in519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	3	0	0	0	3	0	0	0	0
+Unique Emergent Metabolites:
+Isovalerate	7	500in356
+Valine	7	500in356
+Propionate	7	500in360
+Alanine	7	500in360
+Methionine	7	500in360
+Glycine	3	500in360
+Tyrosine	7	500in360
+Tryptophan	3	500in519
+Inosine	7	500in492
+AMP	3	500in360
+Nicotinamide	13	500in360
+
+ASF502
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+502in356	7	7	0	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	13	0	0	0	0
+502in360	0	0	0	0	7	0	0	0	0	7	0	7	2	0	0	0	0	3	0	0	0	0	0	0	11	7	0	0	0	0	0	0	0	0	0	0
+502in361	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	0	13
+502in492	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	13	0	7	0	11	0	0	0	0	0	7	13	7	0	0	11
+502in500	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	11	7	0	0	0	0	7	0	0	0	0	11	0	0	0	0
+502in519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	11	0	0	0	0	0	0	11	0	0	0	0
+Unique Emergent Metabolites:
+Isovalerate	7	502in356
+Valine	7	502in356
+Alanine	7	502in360
+Acetate	2	502in500
+Methionine	7	502in360
+Glycine	3	502in360
+Betaine	7	502in519
+Tyrosine	7	502in360
+Histidine	7	502in500
+Adenine	7	502in356
+Inosine	7	502in492
+Formate	7	502in492
+AMP	7	502in361
+
+ASF519
+	Butyrate	Isovalerate	Leucine	Valine	Isoleucine	Propionate	3-hydroxybutyrate	Ethanol	Lactate	Alanine	Acetate	Methionine	Succinate	Aspartate	Lysine	Choline	Proline	Glycine	Threonine	Betaine	Glucose	Uracil	Uridine	Urocanate	Fumarate	Tyrosine	Histidine	Tryptophan	Phenylalanine	Adenine	Inosine	Adenosine	Formate	AMP	Nicotinate	Nicotinamide
+519in356	7	0	0	0	0	0	0	7	0	0	0	0	0	7	0	0	7	0	0	7	0	0	0	0	0	0	0	0	0	0	7	7	0	7	0	0
+519in360	0	2	2	2	2	0	0	0	5	2	0	2	0	0	2	2	3	5	5	0	0	2	2	0	0	2	5	2	2	0	3	0	0	3	0	2
+519in361	0	2	2	2	2	0	0	0	0	2	0	2	0	0	2	2	0	2	2	0	0	0	0	2	0	2	2	2	2	0	0	0	0	7	0	2
+519in492	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	7	0	0	2	2
+519in500	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+519in502	0	2	2	0	0	0	5	0	2	0	0	0	0	0	2	0	0	2	2	0	0	0	0	0	0	0	0	2	0	2	0	7	0	0	0	2
+Unique Emergent Metabolites:
+3-hydroxybutyrate	5	519in502
+Ethanol	7	519in356
+Aspartate	7	519in356
+Uracil	2	519in360
+Uridine	2	519in360
+Urocanate	2	519in361
+Adenine	2	519in502
+Nicotinate	2	519in492
