@@ -1,4 +1,4 @@
-# Plotting NMR spectra as PCA plot with annotations
+# Plotting NMR results
 #
 # Written by Matt Biggs, November 2015
 library(ggplot2)
