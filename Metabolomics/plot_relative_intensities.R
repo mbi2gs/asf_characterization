@@ -1,28 +1,29 @@
 # Plotting NMR results
 #
 # Written by Matt Biggs, November 2015
+
 library(ggplot2)
 library(reshape2)
 
 #------------------------------------------------
 # Read in data
 #------------------------------------------------
-relativeIntensities = read.table('NMR_Spectra\\Integrals_UVA.csv',sep=',',header=T,row.names=NULL)
+relativeIntensities = read.table('NMR_Integrals\\Integrals_UVA.csv',sep=',',header=T,row.names=NULL)
 relativeIntensities = relativeIntensities[,-c(2,3,4,5,6)]
 relativeIntensities[,1] = as.character(relativeIntensities[,1])
 
-peakInfo = read.table('NMR_Spectra\\Peak_name_associations.txt',sep='\t',header=T,row.names=NULL)
+peakInfo = read.table('NMR_Integrals\\Peak_name_associations.txt',sep='\t',header=T,row.names=NULL)
 
-sampleInfo = read.table('NMR_Spectra\\sample_info_7Oct15.tsv',sep='\t',header=F,row.names=NULL)
+sampleInfo = read.table('NMR_Integrals\\sample_info_7Oct15.tsv',sep='\t',header=F,row.names=NULL)
 names(sampleInfo) = c("Grower","Medium","Rep","Round")
 sampleInfo = sampleInfo[-253,]  # Last sample in "sample_info_7Oct15.tsv" is a blank buffer, so no need to keep it
 
 # Read in 492 re-do data
-relativeIntensities_492 = read.table('NMR_Spectra\\Integrals_492_redo.csv',sep=',',header=T,row.names=NULL)
+relativeIntensities_492 = read.table('NMR_Integrals\\Integrals_492_redo.csv',sep=',',header=T,row.names=NULL)
 relativeIntensities_492 = relativeIntensities_492[,-c(2,3,4,5,6)]
 relativeIntensities_492[,1] = as.character(relativeIntensities_492[,1])
 
-sampleInfo_492 = read.table('NMR_Spectra\\sample_info_492redo.tsv',sep='\t',header=F,row.names=NULL)
+sampleInfo_492 = read.table('NMR_Integrals\\sample_info_492redo.tsv',sep='\t',header=F,row.names=NULL)
 names(sampleInfo_492) = c("Grower","Medium","Rep","Round")
 
 #------------------------------------------------
@@ -278,10 +279,10 @@ do.call("pheatmap", hm.parameters)
 # Plotting HeatMap of Metabolomics Z-Scores 
 # (only known metabolites and single spent media)
 #-----------------------------------------------------------------
-RI_zm_tk_ss = RI_zm_thresh_known
-RI_zm_tk_ss = RI_zm_tk_ss[grep('in0',row.names(RI_zm_thresh_known)),]
+RI_zm_ss = RI_zm_thresholded
+RI_zm_ss = RI_zm_ss[grep('in0',row.names(RI_zm_thresholded)),]
 
-hm.parameters <- list(RI_zm_tk_ss, 
+hm.parameters <- list(RI_zm_ss, 
                       color = col.pal,
                       cellwidth = 15, cellheight = 15, scale = "none",
                       treeheight_row = 30,
@@ -295,7 +296,7 @@ hm.parameters <- list(RI_zm_tk_ss,
                       cluster_rows = TRUE, cluster_cols = TRUE,
                       clustering_distance_rows = "euclidean", 
                       clustering_distance_cols = "euclidean",
-                      filename = "relative_intensities_single_spent_known_mets_heat_map.tiff")
+                      filename = "relative_intensities_single_spent_heat_map.tiff")
 
 # To draw the heat map on screen 
 do.call("pheatmap", hm.parameters)
@@ -365,8 +366,8 @@ dev.off()
 # Count the various categories of metabolite profiles
 #-----------------------------------------------------------------
 # Convert thresholded relative intensity z-scores to simple up/down/no-change indicators
-RI_zm_thresh2_known = RI_zm_thresh_known
-RI_zm_thresh2_known = sign(RI_zm_thresh2_known)
+RI_zm_thresh2 = RI_zm_thresholded
+RI_zm_thresh2 = sign(RI_zm_thresh2)
 
 # Growth is anything over 10%
 gri = (growth_rate_inhibition + 1) > 0.1
@@ -388,11 +389,11 @@ for(s in species)
       # Name of SpentA
       tmpSpentA_name = paste0(m,'in',0)
       # Name of BinSpentA
-      tmpBinSpentA_name = paste0(s,'in',m)
+      tmpBinSpentA_name = paste0(s,'in',m)      
       
       # Find the correct conditions
-      tmpSpentA = RI_zm_thresh2_known[row.names(RI_zm_thresh2_known) == tmpSpentA_name,]
-      tmpBinSpentA = RI_zm_thresh2_known[row.names(RI_zm_thresh2_known) == tmpBinSpentA_name,]
+      tmpSpentA = RI_zm_thresh2[row.names(RI_zm_thresh2) == tmpSpentA_name,]
+      tmpBinSpentA = RI_zm_thresh2[row.names(RI_zm_thresh2) == tmpBinSpentA_name,]
       
       # Infer profile classification
       add = 3
@@ -417,6 +418,12 @@ for(s in species)
       lowerInDoubleSpent[2+add] = lowerInDoubleSpent[2+add] + lowerInDoubleSpent_high2med
       lowerInDoubleSpent[3+add] = lowerInDoubleSpent[3+add] + lowerInDoubleSpent_med2low
       
+      # Calculate the fraction of metabolites which display a cross-feeding-like profile
+      if(grew)
+      {
+        print(paste(tmpBinSpentA_name,sum(lowerInDoubleSpent_high2low,lowerInDoubleSpent_high2med)/85))
+      }
+      
       # Higher in double spent media
       higherInDoubleSpent_low2high = sum((tmpSpentA < tmpBinSpentA) & (tmpSpentA == -1) & (tmpBinSpentA == 1))
       higherInDoubleSpent_low2med = sum((tmpSpentA < tmpBinSpentA) & (tmpSpentA == -1) & (tmpBinSpentA == 0))
@@ -428,7 +435,7 @@ for(s in species)
   }
 }
 
-d = 7*6*36 # 7 species x 6 media (excluding own) x 36 known metabolites
+d = 7*6*85 # 7 species x 6 media (excluding own) x 85 metabolites
 print(paste("noChange total: ",sum(noChange)/d))
 print(paste("lowerInDoubleSpent total: ",sum(lowerInDoubleSpent)/d))
 print(paste("higherInDoubleSpent total: ",sum(higherInDoubleSpent)/d))
@@ -443,9 +450,6 @@ print(rbind(noChange,lowerInDoubleSpent,higherInDoubleSpent))
 # Interesting (unique) emergent metabolites are those which only
 # occur in one particular interaction.
 #-----------------------------------------------------------------
-# Convert thresholded relative intensity z-scores to simple up/down/no-change indicators
-RI_zm_thresh2_known = RI_zm_thresh_known
-RI_zm_thresh2_known = sign(RI_zm_thresh2_known)
 howManyEmergent = 0
 totalPossibleCases = 0
 
@@ -461,7 +465,7 @@ write("     13 = Not only didn't consume, but produced metabolite in spent \n", 
 for(s in species)
 {
   # All samples generated by species "s"
-  tmpMedia = RI_zm_thresh2_known[substring(row.names(RI_zm_thresh2_known),1,3) == as.character(s),]
+  tmpMedia = RI_zm_thresh2[substring(row.names(RI_zm_thresh2),1,3) == as.character(s),]
   inFresh = tmpMedia[1,]
   inSpent = tmpMedia[-1,]
   emergents = inSpent
@@ -471,9 +475,9 @@ for(s in species)
   for(r in 1:nrow(inSpent))
   {
     derivedFromSpentMediaName = paste0(substring(row.names(inSpent[r,]),6,8),'in0')
-    originatingSpent = RI_zm_thresh2_known[row.names(RI_zm_thresh2_known) == derivedFromSpentMediaName,]
+    originatingSpent = RI_zm_thresh2[row.names(RI_zm_thresh2) == derivedFromSpentMediaName,]
     ownSpentMediaName = paste0(s,'in0')
-    ownSpent = RI_zm_thresh2_known[row.names(RI_zm_thresh2_known) == ownSpentMediaName,]
+    ownSpent = RI_zm_thresh2[row.names(RI_zm_thresh2) == ownSpentMediaName,]
     doubleSpent = inSpent[r,]
     tmpDiff = sign(inSpent[r,] - originatingSpent)
     row.names(tmpDiff) = c("diff")    
@@ -525,12 +529,12 @@ for(s in species)
     }
     #print(rbind(originatingSpent,doubleSpent,tmpDiff,ownSpent,emergent))
     row.names(emergent) = row.names(inSpent[r,])
-    emergents[r,] = emergent    
+    emergents[r,] = emergent   
   }
   ownDoubleSpentMediaName = paste0(s,'in',s)
   emergents = emergents[row.names(emergents) != ownDoubleSpentMediaName,]
   howManyEmergent = howManyEmergent + sum(sign(emergents))
-  totalPossibleCases = totalPossibleCases + 216
+  totalPossibleCases = totalPossibleCases + 510 # 6 double spent media conditions per species (excluding own) * 85 metabolites
   write(paste0("\nASF",s), file = outputEmergentMetsFileName, append = TRUE, sep = "\t")
   tmpColNames = names(emergents)
   tmpColNames[1] = paste0('\t',tmpColNames[1])
