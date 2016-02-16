@@ -1,0 +1,1299 @@
+	group_name	protein_count	species_count	functional_category	functional_description	metagenome_sample_count	asf_species
+21	ENOG41080AX	149	147	S	Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA (By similarity)	15	A519
+23	ENOG4108T9D	26	25	S	SMC domain-containing protein	15	A492
+30	ENOG4107THG	2	2	G	Melibiase	15	A519
+41	ENOG4107XSR	162	156	P	periplasmic solute binding protein	15	A519
+44	ENOG4106JXP	2	2	T	HATPase_c	15	A519
+56	ENOG4108NAA	98	93	M	peptidase, S41	15	A519
+57	ENOG4108NA5	60	46	L	Inherit from COG: DNA primase	15	A519
+64	ENOG41076PK	7	7	S	Protein of unknown function (DUF2874)	15	A519
+68	ENOG4107U29	4	4	S	Tetratricopeptide repeat	15	A519
+70	ENOG4107U2I	4	4	I	Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol (By similarity)	15	A492
+71	ENOG4107U2M	19	17	S	glucose-inhibited division protein A	15	A519
+80	ENOG4107RYH	162	161	S	Permease, YjgP YjgQ family	15	A519
+90	ENOG4108TVB	37	25	L	site-specific recombinase, phage integrase family	15	A519
+96	ENOG4105Z01	60	55	K	transcriptional regulator	15	A502
+100	ENOG4108K5S	68	66	S	domain protein	15	A519
+116	ENOG4105IGA	17	13	S	Inherit from NOG: DnaD domain protein	15	A519
+121	ENOG4108V4B	149	141	S	ThiJ pfpI	15	A356
+124	ENOG4106KS4	34	24	P	Sulfatase	15	A519
+126	ENOG4106KSM	4	4	S		15	A519
+128	ENOG4105DIW	1184	1146	O	FeS assembly protein SUFB	15	A361
+129	ENOG4105DIR	21	21	P	phosphate abc transporter	15	A519
+137	ENOG4108JEG	150	134	Q	abc transporter atp-binding protein	15	A519
+145	ENOG4106SPH	7	5	S		15	A519
+154	ENOG4105C2C	1429	843	P	drug resistance transporter, Bcr CflA	15	A519
+155	ENOG4105C2A	228	127	S	tonB-dependent receptor plug	15	A519
+157	ENOG4105C27	2038	131	P	TonB-dependent Receptor Plug	15	A519
+158	ENOG4105Q51	107	100	M	Glycosyl transferase (Group 1	15	A519
+163	ENOG4108PS3	26	26	S	tetratricopeptide repeat	15	A519
+168	ENOG4107YPC	118	116	S	WbqC-like	15	A519
+175	ENOG4106YCT	30	30	C	V-type ATPase, D subunit	15	A519
+176	ENOG4107T6X	91	91	E	nag kinase	15	A519
+192	ENOG41090JN	112	111	H	Converts the free carboxyl group of a malonyl-thioester to its methyl ester by transfer of a methyl group from S-adenosyl- L-methionine (SAM). It allows to synthesize pimeloyl-ACP via the fatty acid synthetic pathway (By similarity)	15	A519
+196	ENOG41070E5	35	35	S		15	A500
+201	ENOG4107QMP	882	873	L	dna polymerase iii subunits gamma and tau	15	A500
+203	ENOG4107QM4	6	6	E	Aldolase	15	A519
+220	ENOG4108VIK	124	123	V	type I restriction enzyme	15	A519
+225	ENOG41083SR	38	33	L	Transposase	15	A502
+228	ENOG4107U40	140	139	M	Rod shape-determining protein mreC	15	A519
+247	ENOG4107QZC	152	136	M	Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins (By similarity)	15	A519
+255	ENOG4105DKE	98	93	L	DNA helicase	15	A519
+257	ENOG4105CMN	271	267	I	Methylmalonyl-coA mutase	15	A519
+258	ENOG4105CMK	130	81	S	peptidase m56	15	A519
+265	ENOG4108VRW	26	24	S	ABC transporter, ATP-binding protein-related protein	15	A519
+266	ENOG4106NZH	2	2	S		15	A519
+275	ENOG4108FPF	11	10	K	anti-repressor	15	A492
+281	ENOG4105GCM	25	22	S	Transcriptional regulator	15	A519
+284	ENOG4108ZG0	611	565	M	Ompa motb domain protein	15	A519
+287	ENOG41063BF	31	30	O	META domain protein	15	A519
+288	ENOG41063BN	29	29	S		15	A519
+311	ENOG4105RWF	67	50	M	major outer membrane protein OmpA	15	A519
+328	ENOG4105CZH	267	161	S	peptidase	15	A519
+330	ENOG4105CZ7	232	228	S	nitrilase cyanide hydratase and apolipoprotein n-acyltransferase	15	A519
+340	ENOG4107V2F	7	7	L	Group II intron, maturase-specific domain	15	A519
+342	ENOG4105SDS	5	5	P	tonB-dependent receptor plug	15	A519
+345	ENOG4105FV2	175	136	S	Membrane	15	A519
+348	ENOG4108WIQ	118	108	S	phosphoesterase PA-phosphatase related protein	15	A519
+360	ENOG41080VK	103	89	P	domain protein	15	A457
+368	ENOG4108S7R	17	14	V	ABC transporter, permease	15	A519
+373	ENOG4106EK9	48	48	O	Peptidyl-prolyl cis-trans isomerase	15	A519
+387	ENOG4108HYG	72	70	K	acetyltransferase	15	A502
+388	ENOG4108UR9	26	25	S		15	A519
+404	ENOG4105G6B	239	219	S	ABC transporter	15	A519
+405	ENOG4105ERI	262	249	C	cytochrome b subunit	15	A519
+407	ENOG4105ERQ	186	149	P	Periplasmic binding protein	15	A519
+415	ENOG4108PRD	22	14	D	Chromosome partitioning	15	A519
+421	ENOG4105WH1	2978	1116	T	Two component transcriptional regulator luxr family	15	A502
+430	ENOG4105FGU	57	49	C	Nitroreductase	15	A519
+431	ENOG4105FGY	121	54	P	TonB-dependent receptor Plug	15	A519
+453	ENOG4108MEG	10	9	S		15	A519
+455	ENOG4108MEQ	97	56	S	Relaxase mobilization nuclease	15	A519
+456	ENOG4106VVP	3	3	O	Radical SAM superfamily	15	A492
+460	ENOG4108806	11	11	P	TonB-linked outer membrane protein, SusC RagA family	15	A519
+462	ENOG4108YY9	279	275	L	U mismatch-specific DNA glycosylase	15	A492
+464	ENOG4107TDG	53	53	M	Sulfatase	15	A519
+480	ENOG4108SHH	96	57	L	DNA primase	15	A519
+481	ENOG4108SHB	86	85	U	Biopolymer transport protein exbD tolR	15	A519
+482	ENOG4108SH1	58	58	L	U mismatch-specific DNA glycosylase	15	A519
+484	ENOG4107DCJ	69	44	G	hydrolase family 2, sugar binding	15	A519
+501	ENOG4107QT2	50	50	C	oxidoreductase	15	A519
+507	ENOG4105VQ8	117	116	H	uroporphyrinogeN-iii synthase	15	A519
+509	ENOG4108TJW	88	68	L	resolvase	15	A519
+518	ENOG4108IYT	496	465	L	Site-specific tyrosine recombinase, which acts by catalyzing the cutting and rejoining of the recombining DNA molecules. The XerC-XerD complex is essential to convert dimers of the bacterial chromosome into monomers to permit their segregation at cell division. It also contributes to the segregational stability of plasmids (By similarity)	15	A500
+522	ENOG4108K10	27	26	L	Inherit from NOG: Helicase	15	A519
+535	ENOG4107F5U	78	77	S	Family of unknown function (DUF490)	15	A519
+543	ENOG4105DES	140	137	S	(LipO)protein	15	A519
+544	ENOG4105DEW	122	121	T	response regulator	15	A519
+545	ENOG4106BC0	52	52	S	Septum formation	15	A519
+551	ENOG4108CAY	18	17	D	ATPase MipZ	15	A519
+563	ENOG4108G5V	364	319	M	Capsule synthesis protein	15	A492
+564	ENOG4107RHA	173	160	M	Lipid A Biosynthesis	15	A519
+567	ENOG4107GWJ	4	4	G	Glycosyl hydrolase family 1	15	A492
+575	ENOG4105JFD	64	41	K	Transcriptional regulator, GntR family	15	A500
+580	ENOG4106HWX	42	24	S	Inherit from COG: transposase	15	A519
+592	ENOG4108DAR	14	13	K	Divergent AAA domain protein	15	A502
+594	ENOG4105W7Y	111	110	S	Rod shape-determining protein MreD	15	A519
+608	ENOG410721K	63	60	S	Pfam:DUF124	15	A502
+610	ENOG4105DXT	26	19	T	Histidine kinase	15	A519
+618	ENOG4107XRV	19	19	F	hypoxanthine phosphoribosyltransferase	15	A492
+621	ENOG4107TQD	48	40	G	glycosyl hydrolase (Family	15	A519
+622	ENOG4105J9E	80	65	M	Outer membrane assembly protein	15	A519
+624	ENOG4105TZA	46	46	S	membrAne	15	A519
+636	ENOG41068WY	20	20	S		15	A519
+651	ENOG4105D2R	45	39	V	type I restriction-modification system	15	A457
+661	ENOG4105MPN	391	379	S	Membrane	15	A356
+670	ENOG4107W2Q	10	9	L	Inherit from COG: transposase	15	A502
+678	ENOG4105CAW	114	78	G	domain protein	15	A519
+683	ENOG4108M1E	63	37	S		15	A519
+693	ENOG4105ZMX	133	131	S	Protein of unknown function (DUF2851)	15	A519
+701	ENOG410900R	97	95	S	pur-alpha beta gamma DNA RNA-binding protein	15	A519
+709	ENOG41084DM	2	2	S	Inherit from COG: ATPase (AAA	15	A519
+710	ENOG41069BB	62	42	S	conjugative transposon	15	A519
+714	ENOG4107UBS	28	26	K	Transcriptional regulator	15	A519
+727	ENOG4106Z1T	345	324	H	Nicotinamide Mononucleotide Transporter	15	A519
+740	ENOG4105FX6	102	77	K	transcriptional regulator, arac family	15	A519
+744	ENOG41080R2	299	295	L	UPF0102 protein	15	A519
+754	ENOG4107SQN	266	203	S	repeat-containing protein	15	A356
+780	ENOG4108376	276	265	S	Membrane	15	A519
+783	ENOG41085SR	157	131	S		15	A519
+816	ENOG4107RXU	129	128	O	peptidylprolyl cis-trans isomerase	15	A519
+830	ENOG4105FCN	583	502	S	von Willebrand factor	15	A519
+833	ENOG4105FCS	255	244	J	tRNA rRNA methyltransferase	15	A519
+842	ENOG4107SJB	193	146	M	teichoic acid biosynthesis	15	A502
+849	ENOG4108TTI	81	41	T	Anti-feci sigma factor, fecr	15	A519
+852	ENOG4108B2Z	2	2	L	Transposase IS116/IS110/IS902 family	15	A361
+854	ENOG4108J79	5	5	K	RNA polymerase	15	A519
+871	ENOG4108MI9	9	8	P	tonB-dependent receptor plug	15	A519
+875	ENOG4108T1E	50	41	S	N-6 DNA Methylase	15	A492
+878	ENOG4105EC1	57	54	S	AtP-binding protein	15	A502
+886	ENOG41078E6	72	47	S		15	A519
+903	ENOG4105F6J	231	207	M	Alpha beta hydrolase fold	15	A519
+915	ENOG4107RQK	172	168	G	phosphomannomutase	15	A519
+916	ENOG4107RQC	132	124	M	n-acetylmuramoyl-l-alanine amidase	15	A519
+917	ENOG4107RQB	135	134	S	Organic solvent tolerance protein	15	A519
+918	ENOG4107RQS	2	2	G	Glycosyl hydrolase family 3 C-terminal domain	15	A519
+919	ENOG4107RQR	119	118	L	UvrD REP helicase	15	A519
+920	ENOG4107RQT	121	120	C	it plays a direct role in the translocation of protons across the membrane (By similarity)	15	A519
+921	ENOG4107RQ1	88	52	M	peptidase, S41	15	A519
+922	ENOG4107RQ3	50	38	G	protein TIM barrel	15	A519
+939	ENOG4108IUB	353	334	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. NqrA to NqrE are probably involved in the second step, the conversion of ubisemiquinone to ubiquinol (By similarity)	15	A519
+949	ENOG4107S9S	52	46	S	domain protein	15	A519
+950	ENOG410751Q	6	3	S		15	A519
+952	ENOG4107CCB	2	2	S		15	A500
+955	ENOG4108NR5	20	15	S	O-Antigen polymerase	15	A519
+976	ENOG4106KSD	5	4	S		15	A519
+985	ENOG41075FK	3	1	S		15	A519
+988	ENOG41066HE	8	8	S		15	A519
+993	ENOG4105DT3	347	209	G	PTS system, galactitol-specific IIc component	15	A502
+994	ENOG4105DT0	43	39	S	tripeptidyl aminopeptidase	15	A519
+1000	ENOG4108QSX	17	12	S	WD-40-like protein	15	A519
+1002	ENOG4107U2P	5	5	F	Uracil permease	15	A519
+1013	ENOG4108V1T	1267	817	O	peptidylprolyl cis-trans isomerase	15	A519
+1023	ENOG41067FW	63	61	S	suppressor of fused	15	A519
+1029	ENOG4105UY8	53	34	S		15	A519
+1035	ENOG4108I7K	13	13	G	pyruvate phosphate dikinase	15	A519
+1046	ENOG41061Z5	21	13	S	Membrane	15	A519
+1054	ENOG4105MTI	126	123	S	Protein of unknown function (DUF2795)	15	A519
+1056	ENOG4105MT5	93	54	S	tonB-dependent receptor plug	15	A519
+1073	ENOG4105CEN	1277	1252	L	a g-specific adenine glycosylase	15	A519
+1076	ENOG4106A7Y	57	51	S	prophage antirepressor	15	A519
+1079	ENOG4108VZJ	6	6	S		15	A519
+1081	ENOG410650M	13	13	S		15	A519
+1093	ENOG4108M53	36	35	G	L-fucose isomerase, C-terminal domain	15	A502
+1107	ENOG4106PJV	2	2	T	ATPase histidine kinase DNA gyrase B HSP90 domain protein	15	A519
+1116	ENOG4105GK1	43	43	S	Pfam:DUF1239	15	A519
+1123	ENOG4106IGJ	189	180	S	Acyl-transferase	15	A519
+1128	ENOG41062I0	26	21	K	Transcriptional Regulator, LuxR family	15	A519
+1137	ENOG4107JQS	13	13	S		15	A519
+1139	ENOG4105CRJ	116	110	F	Dihydroorotate dehydrogenase	15	A519
+1141	ENOG4105CRZ	151	135	S	Nucleotidyl transferase of unknown function (DUF1814)	15	A502
+1142	ENOG4105CRY	323	319	G	pfkb domain protein	15	A519
+1153	ENOG4106H3A	210	190	V	restriction	15	A500
+1165	ENOG4106SY2	5	4	T	Histidine kinase	15	A519
+1176	ENOG410620E	37	37	S		15	A519
+1182	ENOG4108HQV	22	18	S	tail tape measure protein	15	A492
+1183	ENOG4108HQW	56	55	O	ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins (By similarity)	15	A519
+1184	ENOG4108HQU	14	12	S	phage tail tape measure protein	15	A492
+1191	ENOG4107USQ	101	100	S	tetratricopeptide	15	A519
+1204	ENOG4105EZI	676	599	U	multiple antibiotic resistance (MarC)-related protein	15	A519
+1205	ENOG4105EZB	119	119	S	Family of unknown function (DUF490)	15	A519
+1206	ENOG4105EZY	541	420	L	Pyrroloquinoline quinone biosynthesis protein E	15	A492
+1207	ENOG4105EZS	261	232	F	DNA RNA NON-specific endonuclease	15	A519
+1212	ENOG4108YCF	25	25	M	glycosyl transferase group 1	15	A519
+1221	ENOG41064M9	41	32	K	RNA Polymerase	15	A502
+1232	ENOG4107SFW	121	120	O	Trigger factor	15	A519
+1233	ENOG4107SFC	5	5	E	Asparagine synthetase	15	A519
+1234	ENOG4106B1D	122	104	M	glycosyl transferase group 1	15	A519
+1243	ENOG4108MM3	21	19	G	Glycosyl hydrolase family 20, catalytic domain protein	15	A519
+1252	ENOG4105C99	275	268	S	atpase involved in dna repair	15	A519
+1255	ENOG4105C9E	138	80	T	Two component transcriptional regulator, lyttr family	15	A519
+1264	ENOG4107SBK	105	104	E	Acetylornithine deacetylase	15	A519
+1268	ENOG4107Y17	16	16	M	Patatin-like phospholipase	15	A519
+1272	ENOG4107Y1E	133	132	S	Competence protein	15	A519
+1275	ENOG4106RFT	2	2	S		15	A519
+1283	ENOG4105F28	507	245	P	tonB-dependent Receptor	15	A519
+1285	ENOG4105F27	1197	663	G	Major Facilitator	15	A361
+1286	ENOG4105F2Y	8	8	L	DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments on both template strands at replication forks during chromosomal DNA synthesis (By similarity)	15	A519
+1294	ENOG4106Q0W	41	31	S	ragb susd domaiN-containing protein	15	A519
+1306	ENOG4107RUF	115	107	M	Glycosyl transferase (Group 1	15	A519
+1307	ENOG4107RUA	74	73	C	cytochrome D ubiquinol oxidase subunit II	15	A519
+1313	ENOG4107RU0	52	49	I	inositoL-3-phosphate synthase	15	A519
+1321	ENOG4105QTA	6	6	T	cyclic nucleotide-binding domain protein	15	A519
+1324	ENOG4108TBQ	9	6	K	RNA polymerase	15	A519
+1329	ENOG4108IQ4	22	22	S	Endonuclease Exonuclease phosphatase	15	A519
+1331	ENOG4108K96	32	32	P	efflux transporter, rnd family, mfp subunit	15	A519
+1335	ENOG4107TWU	103	101	M	heptosyltransferase	15	A519
+1346	ENOG4107S5S	80	80	O	Peptidyl-prolyl cis-trans isomerase	15	A519
+1350	ENOG4107S53	133	132	D	rod shape-determining protein RodA	15	A519
+1361	ENOG4106KGV	4	4	M	TonB dependent receptor	15	A519
+1369	ENOG4105PNM	301	250	M	synthesis protein	15	A492
+1383	ENOG4108UB9	24	24	K	transcriptional regulator, AsnC family	15	A519
+1387	ENOG4105XJF	105	101	S	stress responsive alpha-beta barrel domain-containing protein	15	A519
+1388	ENOG4106TQS	4	4	S		15	A519
+1397	ENOG4108PAV	52	43	S	RagB SusD domain protein	15	A519
+1406	ENOG4108ZUG	51	51	S		15	A519
+1414	ENOG4105DPW	259	190	G	Major facilitator superfamily MFS_1	15	A519
+1415	ENOG4105DPS	78	71	S		15	A519
+1419	ENOG4107XJ9	2	2	J	50S ribosomal protein L22	15	A519
+1443	ENOG4107YY3	185	161	G	extracellular solute-binding protein family 1	15	A502
+1447	ENOG41073QM	14	11	S	Ragb susd domain-containing protein	15	A519
+1455	ENOG41066Y6	91	91	S		15	A519
+1458	ENOG4105MHC	52	50	S	tetratricopeptide	15	A519
+1459	ENOG4105MHQ	415	362	C	Low-potential electron donor to a number of redox enzymes (By similarity)	15	A519
+1460	ENOG4105MH0	40	39	S		15	A356
+1475	ENOG4105TIJ	9	9	S		15	A519
+1488	ENOG4108VF3	63	58	S		15	A519
+1492	ENOG4108KQ1	62	53	K	Transcriptional Regulator AraC Family	15	A519
+1498	ENOG4106NVZ	4	2	L	Inherit from COG: transposase	15	A361
+1501	ENOG4108M9E	45	45	G	kinase (PfkB family	15	A519
+1504	ENOG4108P18	64	62	Q	methyltransferase	15	A519
+1505	ENOG4108P1X	49	45	I	synthase	15	A457
+1508	ENOG4108P1Q	59	59	O	Antioxidant, AhpC TSA family	15	A519
+1531	ENOG4108W76	114	113	E	histidinol phosphate phosphatase hisj family	15	A519
+1537	ENOG4108N68	59	46	T	UspA domain-containing protein	15	A519
+1538	ENOG4107Z39	11	11	S	dedA family	15	A519
+1544	ENOG4105U2D	22	22	S		15	A519
+1546	ENOG4107QSA	456	391	C	Oxaloacetate decarboxylase	15	A519
+1549	ENOG41062EQ	56	56	S		15	A519
+1557	ENOG4105CVK	287	233	E	Glutamate decarboxylase	15	A519
+1558	ENOG4105CVM	1555	1073	H	Molybdenum cofactor synthesis domain protein	15	A457
+1563	ENOG41090XY	28	25	O	Redoxin domain protein	15	A519
+1570	ENOG4105MU0	15	14	K	transcriptional regulator, BlaI MecI CopY family	15	A519
+1584	ENOG41064TE	220	154	G	hydrolase family 30	15	A519
+1594	ENOG41080ZT	57	50	K	RNA Polymerase	15	A519
+1605	ENOG41062ZF	46	41	P	Efflux transporter RND family MFP subunit	15	A519
+1618	ENOG41079JX	5	3	S		15	A519
+1620	ENOG4108QEX	15	15	P	TonB-linked outer membrane protein, SusC RagA family	15	A519
+1634	ENOG4105KXT	40	35	S	phage protein	15	A356
+1669	ENOG4105EK8	373	339	S	von Willebrand factor, type A	15	A519
+1670	ENOG4105EK1	24	17	S	conjugative transposon protein TraQ	15	A519
+1679	ENOG41081GJ	15	15	M	glycosyltransferase group 2 family protein	15	A519
+1691	ENOG4107WFV	2	2	F	Ribonucleotide reductase, barrel domain	15	A519
+1702	ENOG4107DWN	2	2	S		15	A492
+1714	ENOG4105VEQ	3058	1178	K	Cold shock protein	15	A360
+1735	ENOG4107VVG	24	24	T	Histidine kinase	15	A519
+1737	ENOG4107VV4	76	49	S	Virulence-associated protein e	15	A519
+1753	ENOG4105WVA	66	66	E	synthase	15	A519
+1755	ENOG41082V7	5	5	S	Patatin-like phospholipase	15	A519
+1759	ENOG41082VS	29	29	S	Nitroreductase	15	A519
+1762	ENOG4107S1C	57	56	S	ABC transporter	15	A519
+1763	ENOG4107S1T	110	68	S	Sss sodium solute transporter superfamily	15	A519
+1766	ENOG4107S18	136	133	E	3-phosphoshikimate 1-carboxyvinyltransferase	15	A519
+1771	ENOG4108SSE	558	168	L	Transposase	15	A361
+1776	ENOG4108U74	21	21	S		15	A519
+1782	ENOG4108NJV	17	14	S	Archaeal ATPase	15	A519
+1786	ENOG4105D9N	718	471	F	nucleoside	15	A519
+1790	ENOG4105D9P	1968	835	T	serine threonine protein kinase	15	A502
+1810	ENOG4108JU6	424	421	P	CBS domain protein	15	A500
+1814	ENOG4107U7Z	57	46	G	alpha amylase, catalytic	15	A519
+1826	ENOG4105E6M	550	409	O	Sulphatase-modifying factor protein	15	A519
+1841	ENOG4105K0B	31	31	S	Tetratricopeptide repeat protein	15	A519
+1844	ENOG4105ZVF	16	16	S	Zinc-dependent metalloproteinase lipoprotein, BF0631 family	15	A519
+1862	ENOG4107XN3	126	125	H	biotin acetyl-CoA-carboxylase ligase	15	A519
+1893	ENOG4107T4D	8	8	P	cation diffusion facilitator family transporter	15	A519
+1895	ENOG4108UDK	59	58	K	hemerythrin hhe cation binding domain protein	15	A519
+1896	ENOG4108UDF	11	11	P	ABC transporter	15	A519
+1917	ENOG4105HSY	11	8	S		15	A519
+1924	ENOG410803F	50	49	O	peptidylprolyl cis-trans isomerase	15	A519
+1934	ENOG4105J0E	51	49	L	Modification methylase EcoRI	15	A502
+1935	ENOG4105WVN	30	28	K	transcriptional regulator, y4mF family	15	A519
+1938	ENOG4105TEF	22	22	S		15	A519
+1940	ENOG4105NYX	52	52	L	DNA-binding protein	15	A519
+1944	ENOG4108VB5	38	37	S	Sel1 domain protein repeat-containing protein	15	A356
+1955	ENOG4106PBR	97	73	S	Protein of unknown function (DUF3078)	15	A519
+1961	ENOG4105GSD	9	8	M	Glycosyl transferase, family 2	15	A519
+1977	ENOG4107Z7B	2	2	H	AIR synthase related protein, N-terminal domain	15	A519
+1983	ENOG4107QWF	75	52	L	Dna topoisomerase	15	A519
+1985	ENOG4107QWI	146	131	G	alpha amylase, catalytic	15	A519
+1986	ENOG4107QWK	126	125	F	SAICAR synthetase	15	A519
+1989	ENOG4107TT5	282	226	M	NLP P60 protein	15	A457
+1991	ENOG4108H4E	9	9	S	Metallo-Beta-Lactamase	15	A519
+1992	ENOG4108H4D	18	18	S	Aminoglycoside phosphotransferase	15	A519
+1993	ENOG4108H4X	4	4	M	Glycosyl transferase	15	A519
+2005	ENOG4105STC	49	45	S		15	A519
+2017	ENOG4105D98	743	726	E	threonine synthase	15	A519
+2018	ENOG4105D97	166	107	S	kila-n, DNA-binding domain	15	A519
+2032	ENOG4108Q37	68	65	S	domain protein	15	A519
+2043	ENOG4107AWK	2	2	S		15	A492
+2107	ENOG4108MUJ	67	67	M	peptidase M23	15	A519
+2108	ENOG41085Z2	28	25	S	Peptidase, M56 family	15	A519
+2109	ENOG41085Z4	17	15	S	plasmid maintenance system antidote protein, xre family	15	A519
+2116	ENOG4108YIU	61	58	S		15	A519
+2131	ENOG4107HQ7	115	99	S	repeat protein	15	A519
+2143	ENOG41069FE	8	8	S		15	A519
+2151	ENOG4108TSA	14	13	S		15	A519
+2168	ENOG4108NF5	24	20	S	Ragb susd domain-containing protein	15	A519
+2170	ENOG4105D54	60	60	L	dEAD DEAH box helicase	15	A519
+2171	ENOG4105D57	286	203	G	beta-galactosidase	15	A519
+2185	ENOG41076SH	149	125	S	peptidase, S41	15	A519
+2204	ENOG4107RXW	60	49	G	Putative glycosyl hydrolase of unknown function (DUF1680)	15	A519
+2205	ENOG4107RX1	119	96	M	Outer membrane efflux protein	15	A519
+2221	ENOG4108TWI	33	24	K	Transcriptional regulator, ARAC family	15	A519
+2237	ENOG41064YG	56	56	M	synthase	15	A519
+2240	ENOG4108K4Y	56	29	P	tonB-dependent Receptor	15	A519
+2284	ENOG4107H2F	105	104	S	sporulation and cell division repeat protein	15	A519
+2287	ENOG4108JBV	2	1	T	two-component system sensor histidine kinase response regulator, hybrid	15	A519
+2291	ENOG4107R7P	111	102	P	Potassium proton antiporter	15	A457
+2294	ENOG4107R73	415	405	V	Mate efflux family protein	15	A519
+2295	ENOG4107R76	190	177	G	Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity)	15	A457
+2297	ENOG4107R79	37	26	S	HlyD-family transporter	15	A519
+2306	ENOG4108Y1E	77	75	S	p-loop domain protein	15	A457
+2308	ENOG4105C30	534	485	M	Nad-dependent epimerase dehydratase	15	A492
+2309	ENOG4105C3Z	221	135	M	Outer membrane protein, OMP85 family	15	A519
+2310	ENOG4108PZG	48	44	T	Two component transcriptional regulator (Winged helix family	15	A519
+2311	ENOG410672Y	126	125	S		15	A519
+2314	ENOG4107YQM	45	40	C	-phosphodiesterase	15	A519
+2316	ENOG4107YQG	91	90	J	acetyltransferase, (GNAT) family	15	A519
+2325	ENOG4107825	3	3	S		15	A519
+2333	ENOG41066AI	54	54	S	BNR Asp-box repeat protein	15	A519
+2344	ENOG4107QNK	712	401	G	)-transporter	15	A519
+2350	ENOG4105CVX	61	47	M	Polysaccharide Biosynthesis Protein	15	A519
+2351	ENOG4105J4P	12	10	S		15	A519
+2352	ENOG4105J41	431	326	V	Beta-lactamase	15	A519
+2366	ENOG4108VNQ	29	28	J	gCN5-related N-acetyltransferase	15	A519
+2376	ENOG41083RF	70	68	E	phosphoribosyl-ATP pyrophosphatase	15	A356
+2405	ENOG410762E	2	1	S		15	A519
+2410	ENOG4105CN9	728	460	E	Peptidase m42 family protein	15	A500
+2413	ENOG4108VSY	201	196	L	crispr-associated protein Cas4	15	A502
+2422	ENOG410811N	131	130	K	Transcriptional regulator	15	A519
+2433	ENOG4105GDU	110	102	E	serine acetyltransferase	15	A519
+2434	ENOG4105DYJ	117	106	E	solute symporter	15	A519
+2455	ENOG4107ZFT	16	13	U	Signal peptidase i	15	A519
+2457	ENOG4107ZFZ	226	223	S	Functions as a ribosomal silencing factor. Interacts with ribosomal protein L14 (rplN), blocking formation of intersubunit bridge B8. Prevents association of the 30S and 50S ribosomal subunits and the formation of functional ribosomes, thus repressing translation (By similarity)	15	A519
+2461	ENOG4105T2K	41	41	S		15	A519
+2470	ENOG41074SN	12	12	S		15	A519
+2482	ENOG41065V8	5	4	S		15	A519
+2486	ENOG4105SEA	11	11	S		15	A361
+2498	ENOG4108XAF	26	26	J	Threonine alanine tRNA ligase second additional domain protein	15	A519
+2502	ENOG4105FSQ	60	56	S		15	A519
+2504	ENOG4105FSF	28	28	S		15	A519
+2513	ENOG4107SZI	91	76	S	Methyl-accepting chemotaxis	15	A457
+2525	ENOG4105RA3	123	121	J	Binds directly to 16S ribosomal RNA (By similarity)	15	A519
+2528	ENOG4106G7N	4	4	S		15	A519
+2535	ENOG4108MYR	72	56	S	Secreted protein	15	A519
+2552	ENOG4106P9T	14	9	S		15	A519
+2555	ENOG4106D4K	25	25	S	Protein of unknown function (DUF2582)	15	A519
+2556	ENOG4106D4I	287	280	S	domain protein	15	A360
+2572	ENOG4107Q3I	100	98	S	DNA mismatch repair protein	15	A519
+2574	ENOG41060EM	26	25	S		15	A356
+2587	ENOG4108MD8	28	25	S	amidohydrolase family	15	A519
+2592	ENOG4107R8F	107	105	S	Uroporphyrin-iii c tetrapyrrole (Corrin porphyrin) methyltransferase	15	A519
+2593	ENOG4107R8E	146	142	H	1,4-dihydroxy-2-naphthoate octaprenyltransferase	15	A519
+2606	ENOG41061AE	45	41	G	hydrolase family 2, sugar binding	15	A519
+2619	ENOG4105D17	301	249	G	glycoside hydrolase, family 3 domain protein	15	A519
+2621	ENOG4105D1Y	303	108	L	integrase family	15	A519
+2626	ENOG4105JB0	37	33	M	ompA family	15	A457
+2641	ENOG4105X84	56	47	K	Tetr family transcriptional regulator	15	A519
+2654	ENOG4108FYP	5	5	P	tonB-dependent Receptor	15	A519
+2666	ENOG4108K0F	34	25	S	Conjugative transposon protein TraI	15	A519
+2667	ENOG4108K0D	190	169	O	peptidase, M48	15	A519
+2669	ENOG4108K00	27	21	S		15	A519
+2679	ENOG4105K8R	450	434	S	UPF0145 protein	15	A519
+2696	ENOG4105DD0	102	100	S	Gliding motility-related protein	15	A519
+2699	ENOG4105PAD	259	253	S	Hydrolase	15	A519
+2702	ENOG4107XF3	61	46	P	tonB-dependent Receptor	15	A519
+2703	ENOG4107XFU	81	68	P	Chromate transport protein	15	A519
+2713	ENOG4107RK0	124	114	G	Sucrose phosphorylase	15	A361
+2722	ENOG41087RP	29	20	S	ragb susd domaiN-containing protein	15	A519
+2727	ENOG4105C7A	120	116	GM	epimerase dehydratase	15	A519
+2729	ENOG4105Q6V	35	35	S		15	A519
+2732	ENOG4108PP1	26	23	V	abc transporter permease protein	15	A519
+2734	ENOG4107YUP	2	2	J	RNA pseudouridylate synthase	15	A519
+2743	ENOG4106J4H	9	7	V	Mate efflux family protein	15	A519
+2745	ENOG4107T1R	9	8	S	Pfam:DUF2081	15	A492
+2758	ENOG4107BS4	5	4	S		15	A519
+2762	ENOG41090IP	121	120	S	Required for maturation of 30S ribosomal subunits (By similarity)	15	A519
+2777	ENOG4108C71	18	17	P	TonB-dependent Receptor Plug	15	A519
+2791	ENOG4108QN5	8	8	S		15	A519
+2793	ENOG4105NQK	120	119	S	regulatory protein RecX	15	A519
+2796	ENOG4108VJ2	70	70	S	Hdig domain protein	15	A519
+2803	ENOG4107VG1	32	26	G	alpha-L-fucosidase EC 3.2.1.51	15	A519
+2829	ENOG4108UWE	256	239	I	Acyltransferase	15	A519
+2833	ENOG4106IWZ	13	13	S		15	A519
+2836	ENOG4108Z7T	434	401	P	Destroys radicals which are normally produced within the cells and which are toxic to biological systems (By similarity)	15	A502
+2845	ENOG4105P27	19	17	S	ragb susd domaiN-containing protein	15	A519
+2859	ENOG4105CB7	46	46	M	polysaccharide biosynthesis protein	15	A519
+2862	ENOG4105CBG	990	398	P	Sulfatase	15	A519
+2863	ENOG4105CBI	875	836	E	The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor	15	A519
+2868	ENOG4108T6Y	22	21	S		15	A519
+2894	ENOG4107UC0	10	10	H	Flavin containing amine oxidoreductase	15	A519
+2903	ENOG4105SYU	26	26	S		15	A519
+2913	ENOG41084T7	5	4	S	Pyridoxamine 5-phosphate oxidase-related, FMN-binding protein	15	A519
+2917	ENOG4105KDI	446	390	S	von Willebrand factor, type A	15	A519
+2919	ENOG4105KDC	828	815	J	50s ribosomal protein l28	15	A519
+2931	ENOG4107MUT	30	23	S	ragb susd domaiN-containing protein	15	A519
+2956	ENOG4107UXB	107	63	S	conjugation system ATPase, TraG family	15	A519
+2962	ENOG4108363	94	72	S	PbH1	15	A519
+2969	ENOG4105Z7C	19	19	S		15	A519
+2973	ENOG4105EW9	1083	581	K	transcriptional regulator AsnC family	15	A519
+2976	ENOG4105EW3	119	64	U	TraG family	15	A519
+2978	ENOG41081K1	17	16	L	Transposase	15	A492
+2994	ENOG4105KQN	54	54	S	Protein of unknown function (DUF3108)	15	A519
+2998	ENOG4108XRG	19	18	S		15	A519
+3000	ENOG4105FBJ	640	549	Q	fumarylacetoacetate (faa) hydrolase	15	A519
+3015	ENOG4107TDE	206	135	E	lipolytic protein G-D-S-L family	15	A492
+3023	ENOG4105VIR	194	184	S	ycii-related	15	A356
+3026	ENOG4108MHS	66	42	S	Lysyl endopeptidase	15	A519
+3027	ENOG4108T2V	15	15	S		15	A519
+3035	ENOG41086KK	96	92	S	IgA peptidase M64	15	A519
+3047	ENOG4108SGE	18	18	S	Hydrolase	15	A519
+3049	ENOG4105F5H	286	190	E	Glycosyl Hydrolase Family 88	15	A502
+3050	ENOG4105F5D	350	332	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. NqrA to NqrE are probably involved in the second step, the conversion of ubisemiquinone to ubiquinol (By similarity)	15	A519
+3051	ENOG4105F5W	398	174	L	AtP-binding protein	15	A519
+3053	ENOG4105F5P	100	92	S	DNA-damage-inducible protein d	15	A502
+3058	ENOG41067R7	104	48	P	Sulfatase	15	A519
+3067	ENOG4107RPG	32	29	S	Ragb susd domain-containing protein	15	A519
+3082	ENOG4107NBN	8	7	S		15	A519
+3089	ENOG41061PY	99	91	T	Histidine kinase	15	A492
+3113	ENOG4108JZE	52	50	S	Tetratricopeptide repeat protein	15	A519
+3117	ENOG4107RTX	85	63	E	Sss sodium solute transporter superfamily	15	A519
+3137	ENOG4105UM5	14	11	S		15	A492
+3153	ENOG4106UXT	8	8	S		15	A519
+3156	ENOG4105DW1	127	60	K	Transcriptional regulator, ARAC family	15	A519
+3160	ENOG4105DWI	83	58	P	tonB-dependent Receptor	15	A519
+3162	ENOG4105DWQ	342	323	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. NqrA to NqrE are probably involved in the second step, the conversion of ubisemiquinone to ubiquinol (By similarity)	15	A519
+3166	ENOG4108QRJ	27	22	S	conjugative transposon protein TraO	15	A519
+3193	ENOG41068X3	141	140	S	Zinc ribbon domain protein	15	A519
+3200	ENOG4105UV6	21	18	S		15	A519
+3215	ENOG4105HZ5	118	117	L	DNA uptake protein and related DNA-binding	15	A519
+3223	ENOG4105V47	37	35	T	Histidine kinase	15	A519
+3224	ENOG4105V4W	50	50	S		15	A519
+3245	ENOG4108P6K	10	9	S	Ragb susd domain-containing protein	15	A519
+3252	ENOG4108D12	135	134	S	Protein of unknown function (DUF3109)	15	A519
+3268	ENOG4106DYJ	12	11	S		15	A519
+3277	ENOG4105PP9	7	7	S		15	A519
+3279	ENOG4105PPK	9	9	S		15	A519
+3282	ENOG4107ZNS	138	137	L	Could be a nuclease that resolves Holliday junction intermediates in genetic recombination (By similarity)	15	A519
+3286	ENOG4108PTV	9	9	E	Sorbitol dehydrogenase	15	A519
+3292	ENOG41069AG	77	63	S	Ankyrin repeat	15	A457
+3316	ENOG4107SRP	109	108	F	amidophosphoribosyltransferase (EC 2.4.2.14)	15	A519
+3319	ENOG4107ZUX	232	230	FG	Histidine triad (HIT) protein	15	A519
+3344	ENOG41065EF	3	3	S		15	A519
+3347	ENOG4105SJS	86	79	S	Membrane	15	A519
+3348	ENOG41081WG	132	131	J	50s ribosomal protein l31	15	A519
+3351	ENOG4108P00	117	114	S	membrane	15	A519
+3355	ENOG4106JDD	3	3	S	RteC protein	15	A519
+3364	ENOG4105KUK	77	76	S	gliding motility protein	15	A519
+3366	ENOG4105KUR	200	181	S	CAAX amino terminal protease family protein	15	A361
+3383	ENOG4106B24	19	16	S		15	A519
+3384	ENOG4107SG2	110	109	F	Phosphoribosylformylglycinamidine cyclo-ligase	15	A519
+3392	ENOG4108HGU	24	24	T	Histidine kinase	15	A519
+3398	ENOG4108YP2	86	50	K	RNA polymerase	15	A519
+3399	ENOG4108YPU	85	82	S	protein, conserved in bacteria	15	A502
+3400	ENOG4107TCD	19	18	F	2',3'-cyclic-nucleotide 2'-phosphodiesterase EC 3.1.4.16	15	A492
+3403	ENOG4107TCY	2	2	J	tRNA synthetase class II core domain (G, H, P, S and T)	15	A519
+3404	ENOG4107TC5	21	21	EH	(phospho)adenosine phosphosulfate reductase	15	A502
+3411	ENOG4107Y2E	7	7	S		15	A519
+3413	ENOG4105CXK	729	392	M	mandelate racemase muconate lactonizing	15	A519
+3415	ENOG410712B	17	17	S		15	A519
+3420	ENOG4105C9J	160	150	G	Catalyzes the reversible cleavage of L-rhamnulose-1- phosphate to dihydroxyacetone phosphate (DHAP) and L-lactaldehyde (By similarity)	15	A519
+3433	ENOG4105F1B	86	86	S		15	A519
+3438	ENOG41060VI	116	115	L	Involved in DNA repair and RecF pathway recombination (By similarity)	15	A519
+3449	ENOG4107RTD	369	365	J	sua5 ycio yrdc ywlc family protein	15	A519
+3459	ENOG4105VXY	13	13	S		15	A519
+3470	ENOG4108IPT	472	458	H	Naphthoate synthase	15	A519
+3496	ENOG4108U2B	56	56	S		15	A519
+3497	ENOG4106KFG	90	78	S	phosphate	15	A519
+3499	ENOG4107CC0	15	13	S	BadF/BadG/BcrA/BcrD ATPase family	15	A492
+3509	ENOG4106X7A	15	10	S		15	A519
+3513	ENOG4107RCD	89	82	O	Peptidase, M16	15	A519
+3522	ENOG4108PXZ	14	14	S		15	A519
+3525	ENOG4107YMF	118	94	O	PPIases accelerate the folding of proteins	15	A519
+3528	ENOG4107YMC	4	4	S	Predicted AAA-ATPase	15	A519
+3531	ENOG4108IKN	5	5	S	Nucleotidyltransferase domain	15	A519
+3536	ENOG4108JY9	5	5	P	receptor	15	A519
+3537	ENOG4105IM0	50	40	S	capsid protein	15	A502
+3539	ENOG4105W01	146	113	S	Protein of unknown function (DUF2807)	15	A519
+3551	ENOG41090AB	15	12	S		15	A519
+3553	ENOG41090A1	577	535	P	ferritin	15	A519
+3565	ENOG4108JKZ	22	18	S	Ragb susd domain-containing protein	15	A519
+3580	ENOG4105NIV	293	224	S	Esterase	15	A519
+3582	ENOG41088Q5	2	2	S	VirE N-terminal domain	15	A519
+3594	ENOG4106YMM	713	407	S	Short-chain dehydrogenase reductase Sdr	15	A519
+3618	ENOG4108QAH	77	68	M	group 2 family	15	A519
+3621	ENOG4105V0J	11	10	S		15	A519
+3625	ENOG4105THR	20	18	S	Toxin-antitoxin system, antitoxin component	15	A519
+3635	ENOG4108VGH	186	157	V	Abortive infection bacteriophage resistance protein	15	A457
+3656	ENOG4105GHG	78	78	H	thiamine	15	A519
+3669	ENOG4106DUD	12	10	S		15	A519
+3670	ENOG4106DUN	39	39	S		15	A519
+3682	ENOG4108N72	20	17	S	metallophosphoesterase	15	A519
+3698	ENOG410872A	8	8	G	hydrolase, family 20	15	A519
+3702	ENOG4105CWX	622	224	G	Alpha-1,2-mannosidase	15	A519
+3706	ENOG4105CWG	474	469	E	Catalyzes the last two steps in the biosynthesis of 5- methylaminomethyl-2-thiouridine (mnm(5)s(2)U) at the wobble position (U34) in tRNA. Catalyzes the FAD-dependent demodification of cmnm(5)s(2)U34 to nm(5)s(2)U34, followed by the transfer of a methyl group from S-adenosyl-L-methionine to nm(5)s(2)U34, to form mnm(5)s(2)U34 (By similarity)	15	A519
+3709	ENOG4108RXU	63	59	S	Inherit from NOG: Lipopolysaccharide kinase (Kdo/WaaP) family	15	A519
+3711	ENOG4108RXJ	35	29	L	integrase family	15	A519
+3712	ENOG4108RXH	121	119	M	outer membrane chaperone Skp (OmpH)	15	A519
+3719	ENOG4108KGD	20	20	G	glucose galactose transporter	15	A519
+3722	ENOG4108KG4	124	122	J	Pseudouridine synthase	15	A519
+3723	ENOG4108KG0	60	55	S	acyl-coenzyme A 6-aminopenicillanic acid acyl-transferase	15	A356
+3746	ENOG4106I92	343	325	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. NqrA to NqrE are probably involved in the second step, the conversion of ubisemiquinone to ubiquinol (By similarity)	15	A519
+3751	ENOG4108Q6S	122	121	S	Membrane	15	A519
+3752	ENOG4108Q6Y	25	25	M	efflux transporter, rnd family, mfp subunit	15	A519
+3774	ENOG4108REQ	125	124	S		15	A519
+3778	ENOG41085JU	9	9	S	TonB family	15	A519
+3801	ENOG4105M10	171	166	S	Involved in the anomeric conversion of L-rhamnose (By similarity)	15	A360
+3806	ENOG4105M1V	149	90	K	transcriptional repressor, copy family	15	A519
+3830	ENOG4108MPC	118	117	S	NADP oxidoreductase coenzyme f420-dependent	15	A519
+3837	ENOG4105EHZ	348	286	V	conserved protein UCP016719	15	A519
+3838	ENOG4105EH5	116	114	S	GSCFA domain protein	15	A519
+3850	ENOG4106JU7	145	143	S	Membrane	15	A500
+3858	ENOG4108V28	60	60	S	(LipO)protein	15	A519
+3868	ENOG41076C2	78	63	S	Ser Thr phosphatase family protein	15	A519
+3878	ENOG4107WGF	29	27	S	esterase	15	A519
+3881	ENOG4105E2H	164	149	S	Membrane	15	A519
+3888	ENOG4107EEQ	21	19	S	ragb susd domaiN-containing protein	15	A519
+3894	ENOG4105QQ9	66	56	S	Protein of unknown function (DUF1573)	15	A519
+3896	ENOG41080B9	149	148	J	Binds together with S18 to 16S ribosomal RNA (By similarity)	15	A519
+3912	ENOG4105WWW	26	20	K	Transcriptional regulator	15	A519
+3920	ENOG4106Y4B	3	3	S		15	A519
+3925	ENOG4107S69	104	102	S	repeat protein	15	A519
+3928	ENOG4107S6V	4	4	M	RmlD substrate binding domain	15	A492
+3943	ENOG4108CTF	3	3	U	Inherit from COG: type IV secretion system protein	15	A519
+3949	ENOG4107J3H	48	48	G	transporter major facilitator family protein	15	A519
+3950	ENOG4105JY4	16	16	S		15	A519
+3953	ENOG4108JRA	17	12	S	dNA-binding protein	15	A519
+3957	ENOG4108JR9	49	40	S		15	A519
+3959	ENOG4107U8M	10	10	L	formamidopyrimidine-DNA glycosylase	15	A519
+3960	ENOG4107U80	85	50	O	Thioredoxin family	15	A519
+3964	ENOG4108A5Z	2	2	T	Bacterial regulatory protein, Fis family	15	A519
+3968	ENOG4107RGE	25	17	S	Inherit from COG: ATPase (AAA	15	A502
+3975	ENOG4105E7S	6	6	S	xanthan lyase xalb	15	A519
+3977	ENOG4105E78	746	720	H	Catalyzes a mechanistically unusual reaction, the ATP- dependent insertion of CO2 between the N7 and N8 nitrogen atoms of 7,8-diaminopelargonic acid (DAPA) to form an ureido ring (By similarity)	15	A457
+3979	ENOG4108BCK	12	12	S	SMC domain protein	15	A519
+4002	ENOG4108ZVT	497	486	I	methylmalonyl-coA epimerase	15	A519
+4027	ENOG4107R2K	182	47	L	transposase (IS4 family) protein	15	A502
+4028	ENOG4107WAB	17	9	S	Chemotaxis sensory transducer	15	A457
+4030	ENOG4106TGP	13	13	S	Tetratricopeptide repeat protein	15	A519
+4034	ENOG4108Y4J	65	63	S	(LipO)protein	15	A519
+4035	ENOG4108Y4R	24	17	T	Anti-feci sigma factor, fecr	15	A519
+4054	ENOG4108PDC	34	21	M	Glycosyl transferase	15	A519
+4055	ENOG4108PDD	54	36	T	Anti-FecI sigma factor, FecR	15	A519
+4060	ENOG4108WSB	19	18	S	phage portal protein, SPP1	15	A519
+4070	ENOG4105HRB	53	52	P	biopolymer transport protein ExbD TolR	15	A519
+4081	ENOG4105TDY	89	81	Q	Methyltransferase	15	A492
+4087	ENOG4106CZJ	68	68	S		15	A519
+4089	ENOG4105NXS	38	34	S	Succinoglycan biosynthesis protein	15	A502
+4090	ENOG4105NXM	76	75	S	domain protein	15	A519
+4116	ENOG4108N36	92	83	L	exonuclease	15	A356
+4122	ENOG4107Z65	118	117	C	Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0) (By similarity)	15	A519
+4128	ENOG4107QPG	303	283	C	succinate dehydrogenase, flavoprotein subunit	15	A519
+4131	ENOG4107QP1	54	52	S	esterase	15	A519
+4136	ENOG41081DX	110	109	J	One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome (By similarity)	15	A519
+4140	ENOG4108H51	52	51	F	phosphoribosylformylglycinamidine synthase	15	A519
+4142	ENOG4108H5K	9	9	K	sigma54 specific transcriptional regulator Fis family	15	A519
+4145	ENOG4108H5G	3	3	M	Transglycosylase	15	A519
+4148	ENOG4105CKD	1199	761	P	glutathione-regulated potassium-efflux system protein	15	A457
+4149	ENOG4105CKF	482	378	I	membrane protein involved in aromatic hydrocarbon degradation	15	A519
+4153	ENOG4107YEF	140	139	S	Specifically methylates the N3 position of the uracil ring of uridine 1498 (m3U1498) in 16S rRNA. Acts on the fully assembled 30S ribosomal subunit (By similarity)	15	A519
+4164	ENOG4108KC3	191	156	I	Endonuclease Exonuclease phosphatase	15	A519
+4173	ENOG4105U49	18	14	S		15	A519
+4174	ENOG4105U41	22	20	S	Ferric uptake regulator family	15	A519
+4198	ENOG4107APH	63	53	S		15	A519
+4203	ENOG4106QVH	4	3	S		15	A519
+4217	ENOG4105M5Y	91	85	S	acetyltransferase, (GNAT) family	15	A519
+4221	ENOG4105M51	11	9	L	DNA binding domain	15	A519
+4227	ENOG4105EAC	837	809	E	phosphoserine phosphatase	15	A519
+4233	ENOG4106G2V	39	39	S	WD40-like beta Propeller containing protein	15	A519
+4236	ENOG4106N3V	446	415	M	dolichyl-phosphate beta-D-mannosyltransferase (EC 2.4.1.83)	15	A519
+4237	ENOG4108MTT	87	77	J	Glutamate-rich protein grpB	15	A492
+4238	ENOG4108MTV	22	17	S	RteC protein	15	A519
+4241	ENOG4106DR7	232	217	S	MORN repeat protein	15	A361
+4245	ENOG4108W9S	70	70	K	Transcriptional regulator, TetR family	15	A519
+4256	ENOG4105ETI	18	18	S	Endonuclease Exonuclease phosphatase family protein	15	A519
+4257	ENOG4106D95	43	43	S		15	A519
+4258	ENOG4108WRI	87	86	S	Plasmid pRiA4b ORF-3-like protein	15	A519
+4275	ENOG41060NX	11	11	S		15	A502
+4280	ENOG4106XRH	2	2	S		15	A519
+4298	ENOG41071GC	3	3	V	Peptidase C39 family	15	A492
+4304	ENOG4105IPS	284	280	S	esterase	15	A457
+4310	ENOG4107S23	138	138	P	Potassium uptake protein	15	A519
+4311	ENOG4107S2K	51	49	C	glycerol-3-phosphate dehydrogenase, anaerobic, C subunit	15	A457
+4312	ENOG4107S2Q	125	123	M	Efflux ABC transporter, permease protein	15	A519
+4316	ENOG4108SNZ	52	51	S		15	A519
+4317	ENOG4108X0T	135	133	S	DnaK suppressor protein	15	A519
+4324	ENOG4105D43	1359	1072	E	The glycine cleavage system catalyzes the degradation of glycine (By similarity)	15	A519
+4325	ENOG4105D40	176	155	E	peptidase, M24	15	A519
+4327	ENOG4105R9B	127	98	G	Major Facilitator	15	A502
+4339	ENOG4107U44	14	14	P	ABC transporter	15	A519
+4341	ENOG4107U4C	188	186	S	Rhomboid family	15	A519
+4344	ENOG4107WTA	4	4	V	MatE	15	A519
+4354	ENOG4107QUV	222	186	L	Domain protein	15	A519
+4377	ENOG4108K7E	96	95	S		15	A519
+4380	ENOG41086GA	22	22	S	glycosyltransferase	15	A519
+4381	ENOG41086GG	5	5	S	Mycoplasma protein of unknown function, DUF285	15	A457
+4383	ENOG4105R19	192	97	P	tonB-dependent Receptor	15	A519
+4403	ENOG4108NXQ	7	7	P	Sulfatase	15	A519
+4406	ENOG4105DKM	316	282	L	CRISPR-Associated Helicase Cas3	15	A502
+4407	ENOG4105DK5	202	179	E	peptidase, M24	15	A519
+4429	ENOG4107R6T	161	160	K	Involved in the transcription termination process (By similarity)	15	A519
+4445	ENOG4107YRA	95	91	M	Uptake of L-rhamnose across the boundary membrane with the concomitant transport of protons into the cell (symport system) (By similarity)	15	A519
+4446	ENOG4107YRT	4	4	K	laci family transcriptional regulator	15	A519
+4448	ENOG4107YR5	305	300	M	Diacylglycerol kinase	15	A361
+4451	ENOG4105CHQ	430	345	M	Murein-degrading enzyme that degrades murein glycan strands and insoluble, high-molecular weight murein sacculi, with the concomitant formation of a 1,6-anhydromuramoyl product. Lytic transglycosylases (LTs) play an integral role in the metabolism of the peptidoglycan (PG) sacculus. Their lytic action creates space within the PG sacculus to allow for its expansion as well as for the insertion of various structures such as secretion systems and flagella (By similarity)	15	A519
+4454	ENOG4107T4G	112	111	S	Inherit from NOG: Methyltransferase	15	A519
+4457	ENOG4107T43	87	82	T	Transcriptional regulator, Crp Fnr family	15	A519
+4461	ENOG4106XGR	2	2	S		15	A519
+4464	ENOG4108UGW	10	8	T	regulatoR	15	A519
+4474	ENOG4105MA7	96	95	S	Tetratricopeptide repeat protein	15	A519
+4481	ENOG4105HVJ	22	20	L	site-specific recombinase, phage integrase family	15	A519
+4486	ENOG4107GAP	3	3	M	Mechanosensitive ion channel	15	A519
+4489	ENOG4105NTD	88	76	S	Inherit from COG: Hydrolase	15	A519
+4490	ENOG4105NTP	97	97	K	transcriptional regulator	15	A519
+4494	ENOG4108KXZ	57	49	S	Inherit from NOG: (LipO)protein	15	A519
+4496	ENOG41083UK	11	11	K	rna polymerase, sigma(70) factor	15	A519
+4502	ENOG41068QH	5	5	S		15	A519
+4503	ENOG4105I82	248	197	Q	acetyl xylan esterase	15	A361
+4504	ENOG4105I8J	33	32	M	glycosyl transferase group 1	15	A360
+4515	ENOG4108URV	98	97	U	Multiple antibiotic resistance (MarC)-related protein	15	A519
+4517	ENOG4108URH	737	677	L	decarboxylase	15	A519
+4523	ENOG4106IZI	6	5	S	WD40-like Beta Propeller Repeat	15	A519
+4537	ENOG4105HM1	40	23	S	Protein of unknown function (DUF3575)	15	A519
+4540	ENOG4107QTF	855	842	F	adenylosuccinate lyase	15	A519
+4543	ENOG4108H18	5	5	M	Polysaccharide biosynthesis protein	15	A492
+4544	ENOG4108H1F	17	17	T	Histidine kinase	15	A519
+4546	ENOG4108H1R	23	23	H	precorrin-4 C(11)-methyltransferase	15	A519
+4547	ENOG4108H1Y	120	110	S		15	A502
+4550	ENOG4107G80	6	6	L	integrase family	15	A519
+4560	ENOG4105XDC	22	18	P	TonB-dependent Receptor Plug	15	A519
+4561	ENOG4105XDK	62	61	S		15	A519
+4563	ENOG4108JQB	309	293	M	penicillin-binding protein 1C	15	A457
+4577	ENOG4105U8M	37	32	S		15	A519
+4578	ENOG4105GF0	97	96	S	YbbR-like protein	15	A519
+4580	ENOG4105D5Z	140	139	M	polysaccharide biosynthesis protein	15	A519
+4583	ENOG4107S4Y	142	128	E	M20 DapE family protein YgeY	15	A502
+4593	ENOG4105H2E	23	23	S		15	A519
+4594	ENOG4105RU4	56	56	C	NADH-ubiquinone plastoquinone oxidoreductase chain 6	15	A356
+4616	ENOG4108RMU	646	563	P	ferritin dps family protein	15	A519
+4619	ENOG4105XSR	174	148	K	Transcriptional regulator, MarR family	15	A492
+4621	ENOG4107QN8	912	841	U	Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA (By similarity)	15	A457
+4625	ENOG4107V6D	80	68	M	Export protein	15	A519
+4627	ENOG4107KTS	26	23	S		15	A519
+4629	ENOG4106JHB	3	3	P	TonB-linked outer membrane protein, SusC RagA family	15	A519
+4645	ENOG4105KAB	74	65	K	Transcriptional regulator CarD family	15	A492
+4646	ENOG4105KAF	355	294	S	membrAne	15	A457
+4647	ENOG4105KAE	637	629	O	Involved in the modulation of the specificity of the ClpAP-mediated ATP-dependent protein degradation (By similarity)	15	A492
+4662	ENOG4108S9K	32	32	S	hydrolase, Nudix family	15	A519
+4665	ENOG4108S9W	40	39	S		15	A519
+4667	ENOG4107V65	128	126	S	Pasta domain containing protein	15	A519
+4680	ENOG4108MXX	40	40	S	Oxidoreductase short chain dehydrogenase reductase family	15	A519
+4683	ENOG4108MX5	97	86	S	Converts alpha-N-acetylneuranimic acid (Neu5Ac) to the beta-anomer, accelerating the equilibrium between the alpha- and beta-anomers. Probably facilitates sialidase-negative bacteria to compete sucessfully for limited amounts of extracellular Neu5Ac, which is likely taken up in the beta-anomer. In addition, the rapid removal of sialic acid from solution might be advantageous to the bacterium to damp down host responses (By similarity)	15	A519
+4692	ENOG4105EPB	37	37	M	group 2 family	15	A519
+4694	ENOG4105EPT	19	19	S		15	A519
+4700	ENOG41081NA	139	128	L	DNA-binding protein	15	A519
+4702	ENOG4106D5Q	14	10	S	Protein of unknown function (DUF2874)	15	A519
+4710	ENOG4105WJ8	32	11	S	Periplasmic Protein	15	A457
+4712	ENOG4108WAF	10	9	S		15	A519
+4741	ENOG4108SJU	8	8	S		15	A519
+4745	ENOG4106KJR	5	3	S		15	A519
+4749	ENOG4105D0C	529	334	P	transport protein	15	A519
+4750	ENOG4105D0J	93	91	P	tonB-dependent Receptor	15	A519
+4751	ENOG4105D06	1340	1057	H	uba thif-type nad fad binding protein	15	A492
+4757	ENOG4105H70	237	160	K	transcriptional regulator	15	A356
+4762	ENOG4106903	14	12	P	Outer membrane protein probably involved in nutrient binding	15	A519
+4764	ENOG4107U03	118	117	S		15	A519
+4778	ENOG4105QBQ	23	23	S		15	A519
+4796	ENOG4105K9E	68	68	S	Domain of unknown function (DUF3127)	15	A519
+4804	ENOG41082HH	80	68	M	efflux transporter, rnd family, mfp subunit	15	A519
+4815	ENOG4108NTG	22	21	K	parb-like	15	A519
+4817	ENOG4108NTX	8	8	M	Outer membrane efflux protein	15	A519
+4836	ENOG4107RJF	73	61	G	diphosphate--fructose-6-phosphate 1-phosphotransferase (EC 2.7.1.90)	15	A519
+4837	ENOG4107RJ9	128	127	D	Cell division protein FtsX	15	A519
+4844	ENOG4105C0G	1266	1147	H	Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives (By similarity)	15	A519
+4845	ENOG4105C09	609	505	S	Bile acid	15	A360
+4846	ENOG4105C00	1410	1075	C	Succinate dehydrogenase (Flavoprotein subunit)	15	A457
+4861	ENOG4107T08	5	5	L	C-5 cytosine-specific DNA methylase	15	A519
+4863	ENOG4107T01	81	70	S	Ribonuclease bn	15	A519
+4867	ENOG4107T0J	13	13	S		15	A519
+4875	ENOG4107V7R	16	16	M	dolichyl-phosphate-mannose-protein mannosyltransferase	15	A519
+4877	ENOG41090HT	99	64	L	Inherit from COG: transposase	15	A500
+4879	ENOG41089IG	97	97	S	doxx family	15	A519
+4886	ENOG4105DZZ	88	68	G	hydrolase family 43	15	A519
+4892	ENOG4107XPB	136	135	O	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ	15	A519
+4900	ENOG4108VKV	564	551	M	Monofunctional biosynthetic peptidoglycan transglycosylase	15	A519
+4902	ENOG4107VFK	14	14	S	GHMP kinase	15	A519
+4909	ENOG41068U0	7	7	S		15	A457
+4923	ENOG4106DI2	5	3	S		15	A519
+4927	ENOG4108Z4R	786	737	M	3-deoxy-d-manno-octulosonate 8-phosphate phosphatase	15	A519
+4943	ENOG4107QXS	149	126	P	(Na H) antiporter	15	A519
+4947	ENOG4107QXG	330	180	O	alkyl hydroperoxide reductase Thiol specific antioxidant Mal allergen	15	A519
+4948	ENOG4107QX2	252	209	S	oxidoreductase	15	A519
+4949	ENOG4107QX5	129	114	O	Thiol disulfide interchange protein	15	A519
+4955	ENOG4107HI8	36	36	S	ribonuclease hii	15	A519
+4979	ENOG4108DG5	5	5	E	Aspartate kinase	15	A519
+4983	ENOG4109023	20	17	S		15	A519
+4984	ENOG410902R	125	113	G	phosphoglycerate mutase	15	A457
+4999	ENOG4107UDT	94	90	S	pspC domain protein	15	A519
+5013	ENOG4105C3N	346	330	P	Participates in control of cell volume in low-osmolarity conditions (By similarity)	15	A519
+5015	ENOG4105XWN	43	34	S		15	A519
+5018	ENOG4107SXR	125	124	M	abc transporter permease protein	15	A519
+5019	ENOG4107SXA	139	137	F	Phosphorylase	15	A519
+5027	ENOG41064BZ	205	175	G	L-xylulose 5-phosphate 3-epimerase	15	A361
+5031	ENOG41080TC	221	188	P	multidrug resistance protein	15	A519
+5034	ENOG4108247	40	40	O	Thioredoxin	15	A519
+5047	ENOG4105RD9	50	45	S	Protein of unknown function (DUF1573)	15	A519
+5048	ENOG4105RD5	148	141	S		15	A519
+5053	ENOG4108HW8	603	506	O	Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine (By similarity)	15	A519
+5066	ENOG410839M	17	17	H	5-formyltetrahydrofolate cyclo-ligase	15	A519
+5076	ENOG4105G4W	112	98	S	n-acetylglucosamine	15	A519
+5079	ENOG4105ET8	70	70	S		15	A519
+5083	ENOG4105ETA	21	18	S	ragb susd domaiN-containing protein	15	A519
+5084	ENOG4105S77	231	217	S	Domain of unknown function DUF87	15	A500
+5092	ENOG41081JK	56	56	K	Transcriptional regulator	15	A519
+5101	ENOG4108WZY	47	45	K	Transcriptional regulator	15	A519
+5124	ENOG4105EV2	168	154	S	VWA domain protein interacting with AAA ATPase	15	A500
+5128	ENOG4107SHE	131	126	J	acetyltransferase, (GNAT) family	15	A502
+5138	ENOG4108J5B	60	59	V	ABC transporter	15	A519
+5139	ENOG4108J5C	327	310	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. NqrA to NqrE are probably involved in the second step, the conversion of ubisemiquinone to ubiquinol (By similarity)	15	A519
+5154	ENOG4108MGK	29	22	S	Ragb susd domain-containing protein	15	A519
+5161	ENOG4105EAA	239	176	G	nucleoside	15	A519
+5170	ENOG4108MWA	14	13	S		15	A519
+5176	ENOG4105F4I	247	218	K	Transcriptional regulator	15	A519
+5177	ENOG4105F4G	406	380	S	Membrane	15	A519
+5178	ENOG4105F4P	184	176	P	)-transporter	15	A360
+5191	ENOG4106WR4	7	6	L	Replication Protein	15	A361
+5198	ENOG41064NN	11	11	S		15	A519
+5202	ENOG4107RSP	25	25	M	penicillin-binding protein	15	A519
+5204	ENOG4107RS1	51	50	M	Outer membrane efflux protein	15	A519
+5208	ENOG4107UGT	120	119	S	Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA (By similarity)	15	A519
+5211	ENOG4107EN1	6	6	S		15	A519
+5215	ENOG4105VS5	167	142	E	lipolytic protein G-D-S-L family	15	A519
+5224	ENOG4107TY3	3	3	V	Eco57I restriction-modification methylase	15	A502
+5225	ENOG4107TY2	137	136	J	tRNA rRNA methyltransferase (SpoU)	15	A519
+5231	ENOG41071TU	67	59	S	heparinase II III family protein	15	A519
+5245	ENOG4106KYJ	3	3	S		15	A356
+5246	ENOG4108NPP	110	109	S	Protein of unknown function (DUF1460)	15	A519
+5253	ENOG4105DCF	911	798	E	alanine dehydrogenase	15	A519
+5254	ENOG4105DCE	117	116	S	Domain of Unknown Function (DUF1599)	15	A519
+5259	ENOG4105PD7	12	11	S		15	A519
+5265	ENOG4108UAI	51	48	S	Histidine triad	15	A519
+5275	ENOG4105C4X	598	408	S	radical SAM domain protein	15	A492
+5277	ENOG4105C4A	564	546	H	Catalyzes the thiamine diphosphate-dependent decarboxylation of 2-oxoglutarate and the subsequent addition of the resulting succinic semialdehyde-thiamine pyrophosphate anion to isochorismate to yield 2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate (SEPHCHC) (By similarity)	15	A519
+5278	ENOG4105C4I	91	49	S	Conjugative transposon TraN protein	15	A519
+5284	ENOG4108INX	10	9	P	TonB-dependent Receptor Plug	15	A519
+5290	ENOG4105W5A	59	52	G	BNR Asp-box repeat protein	15	A519
+5295	ENOG41090D3	31	31	S		15	A519
+5299	ENOG4105DVF	695	471	L	Cytosine-specific methyltransferase	15	A457
+5301	ENOG4105DVP	146	130	L	Adenine-specific	15	A457
+5302	ENOG4105DVY	252	235	H	radical SAM domain protein	15	A457
+5327	ENOG4107HR1	4	4	S		15	A500
+5344	ENOG4105GXR	33	29	S	PRTRC system ThiF family protein	15	A500
+5346	ENOG4108UJU	753	742	K	UPF0301 protein	15	A519
+5355	ENOG4105MRK	13	13	S		15	A519
+5373	ENOG4105CGY	726	710	S	Dna recombination protein	15	A457
+5374	ENOG4105CGS	319	157	G	Alpha-glucosidase	15	A519
+5376	ENOG4106CA4	18	17	S		15	A519
+5381	ENOG4107HMU	6	6	L	Inherit from COG: DNA Methylase	15	A356
+5385	ENOG410652D	32	32	S	Inherit from NOG: Phosphate-Selective Porin O and P	15	A519
+5395	ENOG410818D	124	122	H	dihydroneopterin aldolase	15	A519
+5398	ENOG4105GMQ	127	126	S	RNA polymerase Rpb6 	15	A519
+5408	ENOG4108MIQ	222	156	K	AraC Family Transcriptional Regulator	15	A519
+5411	ENOG4108N8J	129	128	M	outer membrane assembly lipoprotein yfio	15	A519
+5427	ENOG41062K2	66	66	S	PAP2 superfamily domain protein	15	A519
+5428	ENOG4106S60	20	20	S		15	A519
+5430	ENOG4106QZA	57	48	S	lipolytic protein G-D-S-L family	15	A519
+5435	ENOG4108RUG	9	9	M	glycosyl transferase group 1	15	A519
+5450	ENOG41084I7	42	33	M	Alpha-galactosidase. Removes both branched alpha-1,3- linked galactose residues of blood group B antigens and linear alpha-1,3-linked galactose structures	15	A519
+5456	ENOG4105FZN	187	165	M	Glycosyl transferase (Group 1	15	A519
+5459	ENOG4105BZX	420	338	F	nudix hydrolase	15	A519
+5463	ENOG4107SSE	8	8	P	Sulfatase	15	A500
+5477	ENOG410608D	18	14	S	DNA binding domain	15	A519
+5478	ENOG410608B	325	276	N	Ompa motb domain protein	15	A519
+5488	ENOG41069W3	38	33	S	DNA polymerase beta domain protein region	15	A502
+5496	ENOG4105G0D	176	105	K	RNA polymerase	15	A519
+5498	ENOG4105EX6	283	245	S		15	A519
+5502	ENOG4105EXW	337	305	GM	epimerase dehydratase	15	A519
+5504	ENOG4105EXP	25	16	S	domain protein	15	A519
+5507	ENOG410600T	582	142	L	transposase	15	A492
+5520	ENOG4105Y17	4	4	S	Transglycosylase associated protein	15	A519
+5524	ENOG4105FM3	82	73	G	endo-beta-N-acetylglucosaminidase	15	A492
+5527	ENOG4105FMR	39	39	S	WLM domain	15	A519
+5529	ENOG41080E0	5	5	L	SNF2 family N-terminal domain	15	A519
+5531	ENOG41080EQ	36	31	K	transcriptional regulator DeoR family	15	A361
+5534	ENOG4107SDK	56	56	G	carbohydrate kinase FGGY	15	A519
+5545	ENOG4106WKN	11	6	S	TPR-repeat-containing protein	15	A519
+5565	ENOG4107TBS	142	140	E	Shikimate dehydrogenase	15	A519
+5570	ENOG41078G0	147	146	L	8-oxoguanine DNA glycosylase	15	A356
+5575	ENOG4105WG6	106	104	J	RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme (By similarity)	15	A519
+5577	ENOG4108BPP	133	107	I	Alpha beta hydrolase fold	15	A519
+5585	ENOG4107DYI	59	44	S	Conjugative transposon TraK protein	15	A519
+5588	ENOG4105F0T	143	79	P	Sulfatase	15	A502
+5590	ENOG4105F0R	357	309	M	Cytidylyltransferase	15	A492
+5596	ENOG41060WE	9	7	S		15	A361
+5600	ENOG4107TIB	39	39	EH	Dehydrogenase	15	A519
+5605	ENOG4105JIV	34	34	S		15	A519
+5610	ENOG4107RWA	101	86	P	tonB-dependent Receptor	15	A519
+5611	ENOG4107RWD	52	52	H	Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate (By similarity)	15	A519
+5614	ENOG4107RW8	27	27	V	Mate efflux family protein	15	A519
+5623	ENOG4106C56	24	20	S	RagB SusD domain-containing protein	15	A519
+5634	ENOG4107TU8	94	67	M	Export protein	15	A519
+5636	ENOG4105UGP	24	22	K	Transcriptional regulator AbrB family	15	A492
+5647	ENOG4108SYY	18	17	S		15	A519
+5659	ENOG4105PHR	38	38	S	Lipoprotein	15	A519
+5670	ENOG4107RB2	2	2	KL	Helicase conserved C-terminal domain	15	A519
+5675	ENOG4105E0W	46	35	S	Conjugative transposon TraM protein	15	A519
+5687	ENOG4108IJF	1111	479	P	Heavy metal efflux pump, CzcA	15	A519
+5706	ENOG4105DRJ	184	99	S	tonB-dependent Receptor	15	A519
+5708	ENOG4105DRC	778	624	P	Na( ) H( ) antiporter that extrudes sodium in exchange for external protons (By similarity)	15	A519
+5720	ENOG4107R92	46	46	M	epimerase dehydratase	15	A492
+5724	ENOG4107QRR	14	11	E	aspartate	15	A519
+5725	ENOG4107N2I	59	58	M	Outer membrane efflux protein	15	A519
+5734	ENOG4107VN7	8	8	M	Outer membrane efflux protein	15	A519
+5736	ENOG4107VNF	22	22	S	filamentation induced by cAMP protein Fic	15	A519
+5737	ENOG4107VNI	128	127	J	ribosomal protein l10	15	A519
+5747	ENOG4105D3D	412	404	E	Catalyzes the decarboxylation of carboxynorspermidine and carboxyspermidine (By similarity)	15	A519
+5756	ENOG4108UN0	31	30	K	Transcriptional regulator, luxr family	15	A519
+5767	ENOG41090WY	36	34	S	Protein of unknown function (DUF3298)	15	A519
+5771	ENOG41089TA	55	54	EG	Membrane	15	A519
+5788	ENOG4106A58	67	67	S		15	A519
+5797	ENOG4108M7K	45	40	S		15	A502
+5800	ENOG4108M7A	17	16	S		15	A519
+5803	ENOG41067S4	923	677	U	Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. TatA could form the protein-conducting channel of the Tat system (By similarity)	15	A519
+5804	ENOG4105CUY	314	292	M	Mechanosensitive ion channel	15	A519
+5805	ENOG4105CUF	187	163	P	tonB-dependent Receptor	15	A519
+5807	ENOG4105CUK	194	151	G	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	15	A492
+5812	ENOG41068FE	50	25	L	Maturase	15	A492
+5817	ENOG410634Q	9	9	K	RNA Polymerase	15	A519
+5821	ENOG4108022	8	8	S	PlsC	15	A519
+5828	ENOG4106DZW	92	91	M	glycosyl transferase	15	A519
+5830	ENOG4108W1T	108	107	S		15	A519
+5833	ENOG4108W1E	120	56	T	Two component transcriptional regulator, lyttr family	15	A519
+5835	ENOG4105YG4	17	17	S		15	A519
+5846	ENOG4108EGU	12	12	C	NQR complex catalyzes the reduction of ubiquinone-1 to ubiquinol by two successive reactions, coupled with the transport of Na( ) ions from the cytoplasm to the periplasm. The first step is catalyzed by NqrF, which accepts electrons from NADH and reduces ubiquinone-1 to ubisemiquinone by a one-electron transfer pathway (By similarity)	15	A519
+5849	ENOG4105H4N	130	128	J	Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Essential for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA (By similarity)	15	A519
+5851	ENOG4105H4T	162	151	L	CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain sequences complementary to antecedent mobile elements and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Acts as a dsDNA endonuclease. May be involved in the integration of spacer DNA into the CRISPR cassette (By similarity)	15	A457
+5857	ENOG4107C8B	5	5	S		15	A519
+5861	ENOG41074FF	3	3	S		15	A519
+5869	ENOG4105CP9	1124	616	E	extracellular ligand-binding receptor	15	A457
+5870	ENOG4105CP1	147	139	S	L-ascorbate 6-phosphate lactonase	15	A361
+5872	ENOG4105CPN	496	402	F	adenine deaminase	15	A502
+5873	ENOG4105CPE	134	109	S	K01197 hyaluronoglucosaminidase EC 3.2.1.35	15	A519
+5886	ENOG4107V8V	25	25	S		15	A502
+5887	ENOG4106NBU	4	4	S		15	A519
+5894	ENOG4106F3G	640	632	J	Catalyzes the tRNA-independent activation of glutamate in presence of ATP and the subsequent transfer of glutamate onto a tRNA(Asp). Glutamate is transferred on the 2-amino-5-(4,5- dihydroxy-2-cyclopenten-1-yl) moiety of the queuosine in the wobble position of the QUC anticodon (By similarity)	15	A500
+5903	ENOG4105KMR	110	110	S	acetyltransferase, (GNAT) family	15	A519
+5904	ENOG4105YXI	63	31	K	Transcriptional regulator, ARAC family	15	A519
+5920	ENOG4106PZH	5	4	S		15	A519
+5927	ENOG4107UQE	10	10	S	SMI1_KNR4	15	A356
+5941	ENOG41081RX	14	14	S	Inherit from NOG: Domain-Containing protein	15	A492
+5942	ENOG41081RR	95	94	J	Translation initiation factor	15	A519
+5951	ENOG410907E	96	61	S	Relaxase mobilization nuclease	15	A519
+5956	ENOG4108BKE	113	110	S	Membrane	15	A519
+5958	ENOG41084ZG	11	10	K	HTH_XRE	15	A500
+5960	ENOG4106FX4	86	66	S	Alpha-N-acetylglucosaminidase	15	A519
+5965	ENOG4105KZ4	31	26	L	DNA repair protein	15	A519
+5968	ENOG4107WP6	50	43	T	response regulator	15	A361
+5971	ENOG4105FI0	123	122	S	domain protein	15	A519
+5994	ENOG4105EIE	208	200	G	fructose-bisphosphate aldolase	15	A519
+5996	ENOG4105EIZ	710	695	H	Catalyzes the conversion of 6-carboxy-5,6,7,8- tetrahydropterin (CPH4) to 7-carboxy-7-deazaguanine (CDG) (By similarity)	15	A519
+6004	ENOG4106JV5	4	4	P	TonB dependent receptor	15	A519
+6008	ENOG4105WCQ	20	20	S		15	A519
+6009	ENOG4105WC7	33	26	K	RNA polymerase	15	A519
+6020	ENOG41060KZ	39	35	S	Hepn domain protein	15	A519
+6021	ENOG41060K2	10	10	S		15	A519
+6028	ENOG41069IU	10	9	S		15	A519
+6044	ENOG4105QVV	141	129	O	ADP-ribosylglycohydrolase	15	A519
+6061	ENOG4105IUR	41	28	S	peptidase C10	15	A519
+6065	ENOG41082T2	38	29	S	Toprim domain protein	15	A519
+6082	ENOG4108NHA	22	22	P	acriflavin resistance protein	15	A519
+6096	ENOG4108JSN	31	31	T	Histidine kinase	15	A519
+6099	ENOG4107U9E	2	2	S	YceG-like family	15	A519
+6104	ENOG4107RFT	33	31	M	efflux transporter, rnd family, mfp subunit	15	A519
+6106	ENOG4107RFK	2	2	S	Protein of unknown function (DUF1212)	15	A519
+6116	ENOG4105E48	111	71	S	alpha-L-rhamnosidase	15	A519
+6118	ENOG4105E4I	358	189	M	Glycoside hydrolase family 28	15	A519
+6119	ENOG4105E4H	26	18	S	Ragb susd domain-containing protein	15	A519
+6121	ENOG4105E4F	673	576	H	Isochorismate synthase	15	A519
+6139	ENOG4106DWS	25	25	S		15	A519
+6145	ENOG4106US7	3	2	S		15	A519
+6148	ENOG4106KT4	4	4	S		15	A519
+6151	ENOG4105DNU	302	109	P	tonB-dependent Receptor	15	A519
+6152	ENOG4107D30	82	76	O	peptidase S8 and S53, subtilisin, kexin, sedolisin	15	A361
+6170	ENOG4108Z7V	48	48	S		15	A519
+6180	ENOG4107VJI	135	131	J	sua5 ycio yrdc ywlc family protein	15	A519
+6183	ENOG4105C93	453	430	G	Xylose Isomerase	15	A519
+6184	ENOG4105C94	1239	638	P	Transporter	15	A500
+6188	ENOG4108PJ2	18	16	S		15	A519
+6201	ENOG4105P9C	642	554	S	Participates in cysteine desulfuration mediated by SufS. Cysteine desulfuration mobilizes sulfur from L-cysteine to yield L-alanine and constitutes an essential step in sulfur metabolism for biosynthesis of a variety of sulfur-containing biomolecules. Functions as a sulfur acceptor for SufS, by mediating the direct transfer of the sulfur atom from the S-sulfanylcysteine of SufS, an intermediate product of cysteine desulfuration process (By similarity)	15	A519
+6219	ENOG4106U6Y	7	6	S		15	A519
+6225	ENOG4105TGU	52	52	S	(LipO)protein	15	A519
+6228	ENOG4106A1Y	8	5	S	gCN5-related N-acetyltransferase	15	A519
+6233	ENOG4107VQ3	51	46	M	Polysaccharide Biosynthesis Protein	15	A502
+6235	ENOG41083X6	124	122	J	30S ribosomal protein S21	15	A519
+6242	ENOG41067WB	22	15	S		15	A492
+6243	ENOG41067WX	15	15	S		15	A361
+6250	ENOG4105GU5	11	11	S	Protein of unknown function (DUF1573)	15	A519
+6258	ENOG4107I65	15	11	K	RNA Polymerase	15	A457
+6268	ENOG4107Z1Z	97	94	S	NUDIX hydrolase	15	A502
+6270	ENOG4105HH0	22	22	S	DNA-binding protein hu	15	A519
+6271	ENOG4105HH5	22	21	S		15	A502
+6288	ENOG4105CT9	109	97	M	mechanosensitive ion channel	15	A519
+6290	ENOG4106P74	4	3	S	Protein of unknown function (DUF1703)	15	A502
+6293	ENOG4105N28	52	51	S		15	A519
+6294	ENOG4108VUJ	59	59	S		15	A519
+6296	ENOG4108VUE	76	69	U	Biopolymer transport protein exbD tolR	15	A519
+6308	ENOG4108KBF	12	12	S	FtsX-like permease family	15	A519
+6311	ENOG4106NAF	65	65	C	Fe-S cluster domain protein	15	A519
+6312	ENOG4107RC3	152	151	L	DNA polymerase iii, delta' subunit	15	A519
+6314	ENOG4108JJT	2	1	C	Inherit from COG: 4Fe-4S Ferredoxin iron-sulfur binding domain protein	15	A519
+6320	ENOG4105U5N	56	56	S	sporulation and cell division repeat protein	15	A519
+6346	ENOG4107H2M	101	95	S	peptidase family M49	15	A519
+6347	ENOG41090B5	97	89	K	Transcriptional regulator, TetR family	15	A519
+6351	ENOG4107UMN	8	8	E	glutamine synthetase	15	A519
+6370	ENOG4105G8W	145	109	S		15	A519
+6375	ENOG4106P6C	374	65	L	Transposase	15	A519
+6383	ENOG4107KYD	63	58	S	)-transporter	15	A519
+6391	ENOG41072BA	3	3	S		15	A519
+6395	ENOG41080MJ	80	51	K	NusG antitermination factor	15	A519
+6396	ENOG41080M9	11	10	M	Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0) (By similarity)	15	A492
+6406	ENOG4105RK2	19	18	M	outer membrane efflux protein	15	A519
+6410	ENOG4106G1Q	11	10	S	PTS HPr component phosphorylation site	15	A502
+6416	ENOG4108MSS	25	9	S		15	A519
+6417	ENOG41085X4	16	16	S	ragb susd domaiN-containing protein	15	A519
+6431	ENOG41081AK	121	120	S	protein family UPF0079, ATPase	15	A519
+6438	ENOG4106JR1	2	2	S		15	A519
+6447	ENOG4107M4R	3	3	S		15	A492
+6450	ENOG41076NG	4	4	S		15	A519
+6460	ENOG41061MV	73	64	P	Arylsulfatase	15	A519
+6480	ENOG4105IQJ	45	44	H	Involved in biosynthesis of the thiamine precursor thiazole (By similarity)	15	A519
+6483	ENOG4105WTJ	129	109	M	Membrane	15	A519
+6486	ENOG4105G7K	10	10	V	Type I restriction modification DNA specificity domain protein	15	A502
+6489	ENOG4107S3J	81	73	G	n-acylglucosamine 2-epimerase	15	A500
+6491	ENOG4107S3R	58	58	H	L-aspartate oxidase	15	A519
+6492	ENOG4107S38	109	108	V	Mate efflux family protein	15	A519
+6495	ENOG4108X1M	20	12	S		15	A519
+6499	ENOG4105D7Q	1468	887	U	type ii secretion system	15	A457
+6515	ENOG41076U0	66	65	V	Type II restriction	15	A457
+6524	ENOG4107WU7	2	2	H	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain	15	A502
+6536	ENOG4107RZ6	134	132	G	synthase	15	A519
+6545	ENOG4105E8P	59	57	S	transglutaminase domain-containing protein	15	A519
+6547	ENOG4105E8C	138	108	S	Membrane	15	A519
+6548	ENOG4105E8A	186	140	G	Alpha-L-fucosidase	15	A519
+6555	ENOG4107YFD	27	23	S	Archaeal ATPase	15	A519
+6562	ENOG4108K6H	189	72	L	transposase	15	A500
+6581	ENOG4108ZKW	54	53	K	DNA-binding protein	15	A519
+6591	ENOG4108NY9	13	10	T	Sensor histidine kinase, response regulator	15	A519
+6596	ENOG4105DJH	395	268	P	phosphate	15	A519
+6605	ENOG4108R0R	4	4	P	TonB-dependent receptor Plug	15	A519
+6621	ENOG41063U5	50	41	S	helix-turn-helix domain protein	15	A519
+6645	ENOG4105HQK	217	159	L	Terminase, large subunit	15	A502
+6647	ENOG410801K	6	6	S	Protein of unknown function (DUF1524)	15	A457
+6648	ENOG4107QHJ	106	100	O	ATP-dependent Lon protease	15	A361
+6649	ENOG4107QHU	1142	1125	J	One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex (By similarity)	15	A519
+6655	ENOG4105J2P	60	35	S	ragb susd domaiN-containing protein	15	A519
+6657	ENOG4105J20	121	120	S		15	A519
+6661	ENOG4107HY1	67	57	S	Dehydrogenase	15	A356
+6665	ENOG4107XQD	4	4	S	Inherit from COG: domain protein	15	A519
+6671	ENOG4105I9V	122	119	P	ferric uptake regulator	15	A519
+6682	ENOG4108W9B	90	89	U	biopolymer transport protein	15	A519
+6693	ENOG4107QU6	45	41	EGP	Beta-lactamase induction signal transducer	15	A519
+6703	ENOG4108H2E	8	8	GM	phosphorylase	15	A519
+6704	ENOG4108H2K	5	5	S	Phosphotransferase enzyme family	15	A519
+6705	ENOG4108H2P	7	7	L	DNA polymerase iii	15	A519
+6706	ENOG4108H2Z	22	22	C	phosphate acetyltransferase	15	A519
+6708	ENOG4108H29	3	3	GV	Beta-lactamase	15	A519
+6710	ENOG4105CHE	31	31	E	Aminotransferase class i	15	A519
+6712	ENOG4105CHX	111	85	S	AAA ATPase	15	A519
+6722	ENOG4105XGI	8	7	S		15	A519
+6738	ENOG41063GJ	53	53	S	Immunoreactive 84 kDa antigen	15	A519
+6792	ENOG4108WJE	108	92	M	Glycosyl transferase, family 11	15	A519
+6797	ENOG4108I6E	125	109	S	Sulfatase	15	A502
+6808	ENOG41084R0	9	9	L	Integrase core domain	15	A502
+6819	ENOG4105M6F	780	710	L	mutator MutT protein	15	A361
+6843	ENOG4106AUG	115	112	M	peptidase M23	15	A519
+6846	ENOG4106G5W	37	18	S	hemagglutinin protein	15	A519
+6847	ENOG4106G5U	5	5	S		15	A519
+6864	ENOG4108YKN	30	30	K	regulatory protein, asnc	15	A519
+6867	ENOG4105EQ0	528	354	G	Major Facilitator superfamily	15	A519
+6870	ENOG4105EQB	30	27	K	laci family transcriptional regulator	15	A519
+6880	ENOG4108WQG	80	45	K	RNA polymerase	15	A519
+6905	ENOG4107TKJ	8	8	I	acyl-Coa dehydrogenase	15	A519
+6915	ENOG4105F0M	230	181	C	Aldo Keto reductase	15	A519
+6918	ENOG4107TIV	82	79	M	efflux transporter, rnd family, mfp subunit	15	A519
+6920	ENOG4107TI6	109	109	U	MotA TolQ exbB proton channel	15	A519
+6928	ENOG41086M7	6	6	L	site-specific recombinase, phage integrase family	15	A519
+6934	ENOG4105D36	63	62	S	Membrane	15	A500
+6936	ENOG4105D3U	1185	1166	D	Ligates lysine onto the cytidine present at position 34 of the AUA codon-specific tRNA(Ile) that contains the anticodon CAU, in an ATP-dependent manner. Cytidine is converted to lysidine, thus changing the amino acid specificity of the tRNA from methionine to isoleucine (By similarity)	15	A360
+6947	ENOG410693J	7	7	S	DNA-binding helix-turn-helix protein	15	A519
+6948	ENOG4107U10	76	76	M	peptidase	15	A519
+6958	ENOG4105VVI	28	18	M	choline binding protein	15	A361
+6962	ENOG4105ZGD	12	12	S	gtra family	15	A519
+6986	ENOG4105IFY	19	15	S	domain protein	15	A519
+6999	ENOG4105DF5	170	166	L	DNA topoisomerase IV, subunit A	15	A519
+7000	ENOG4105DFE	584	460	L	Dna adenine methylase	15	A492
+7009	ENOG4108JDV	6	5	S	Conjugative transposon TraN protein	15	A519
+7010	ENOG4108JDZ	9	8	M	Glycosyl transferase (Group 1	15	A502
+7011	ENOG4107R5E	135	134	M	outer membrane protein assembly complex, YaeT protein	15	A519
+7014	ENOG4107R54	141	140	O	Peptidyl-prolyl cis-trans isomerase	15	A519
+7024	ENOG4105C1R	82	81	G	hydrolase family 57	15	A519
+7026	ENOG4105C1I	2698	1021	K	TRANSCRIPTIONAl REGULATOR GntR family	15	A356
+7027	ENOG4105C1B	1461	1181	M	dTDP-glucose 4-6-dehydratase	15	A457
+7028	ENOG4105Q4K	112	108	M	Membrane	15	A519
+7029	ENOG4105Q4R	29	29	T	positive regulator of sigmaE, RseC MucC	15	A519
+7033	ENOG4107YWI	187	186	T	protein tyrosine phosphatase	15	A519
+7040	ENOG4106HRJ	526	499	M	d-alanyl-d-alanine carboxypeptidase	15	A519
+7041	ENOG4108NB4	29	26	S		15	A519
+7043	ENOG4107T7F	128	124	U	This protein specifically catalyzes the removal of signal peptides from prolipoproteins (By similarity)	15	A519
+7048	ENOG4108B42	3	3	G	Inherit from COG: n-acylglucosamine 2-epimerase	15	A519
+7066	ENOG4105HU0	25	25	S		15	A519
+7067	ENOG4108H50	7	7	C	V-type sodium ATPase, catalytic A subunit	15	A519
+7072	ENOG4108C9S	2	2	S	Inherit from NOG: domain protein	15	A361
+7073	ENOG4106PUV	2	2	P	Secretin and TonB N terminus short domain	15	A519
+7077	ENOG4105PMQ	8	7	S		15	A519
+7081	ENOG4106A90	53	50	V	Abi-like protein	15	A502
+7093	ENOG4106913	45	24	S	dNA-binding protein	15	A519
+7108	ENOG4106DN5	29	23	S	Histone H1-like protein Hc1	15	A519
+7122	ENOG4107QY3	187	137	T	serine threonine protein kinase	15	A519
+7125	ENOG4106QJ6	68	26	L	Integrase catalytic subunit	15	A519
+7129	ENOG4107HH2	9	7	S		15	A519
+7146	ENOG4108NE1	21	20	S		15	A519
+7151	ENOG4105D6Y	149	147	S	Permease, YjgP YjgQ family	15	A519
+7169	ENOG4108Q9B	111	110	S	Endonuclease Exonuclease phosphatase	15	A519
+7180	ENOG41069GX	76	74	K	Transcriptional regulator	15	A519
+7185	ENOG4107UE4	17	15	L	Reverse transcriptase	15	A502
+7198	ENOG4107V3Y	3	3	EH	chorismate binding enzyme	15	A519
+7199	ENOG4107B4J	5	1	S	dNA-binding protein	15	A519
+7205	ENOG4108I24	13	12	M	Peptidase family S41	15	A519
+7208	ENOG41063V1	30	30	H	Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid (By similarity)	15	A519
+7231	ENOG4108S4D	12	12	S	Protein of unknown function (DUF3408)	15	A519
+7233	ENOG4107ZSU	36	34	S	Ser Thr phosphatase family protein	15	A519
+7238	ENOG4105RC2	62	39	S	conjugative transposon protein TraQ	15	A519
+7243	ENOG4108HXP	34	25	P	tonB-dependent Receptor	15	A519
+7248	ENOG4107UZI	105	105	S	Rhomboid family	15	A519
+7252	ENOG4106N4S	4	4	S		15	A519
+7266	ENOG4108YG5	8	6	S		15	A519
+7269	ENOG4105EU3	95	84	M	Transglycosylase	15	A519
+7275	ENOG4105S0C	15	15	S	Protein of unknown function (DUF2874)	15	A519
+7277	ENOG4108P6N	34	34	S	Oxaloacetate decarboxylase, gamma chain 	15	A519
+7292	ENOG41074MX	2	1	S	TPR	15	A519
+7295	ENOG4108XT0	127	126	S	cell division protein	15	A519
+7301	ENOG4107SID	117	114	L	ATP-dependent exodnase (exonuclease v)	15	A519
+7338	ENOG410848E	28	23	S	DNA Polymerase Beta Domain Protein Region	15	A519
+7348	ENOG4105PX0	61	60	L	TatD family	15	A519
+7363	ENOG4106XDF	97	71	E	peptidase s9 prolyl oligopeptidase active site domain protein	15	A519
+7382	ENOG4106RIY	14	13	S		15	A519
+7389	ENOG4105IBJ	22	22	S		15	A492
+7390	ENOG4105IB4	125	123	S		15	A519
+7404	ENOG4106QVX	10	9	S		15	A519
+7412	ENOG4105PGN	44	44	S	Protein of unknown function (DUF3256)	15	A519
+7420	ENOG4107X8B	5	5	S	Domain of unknown function DUF20	15	A519
+7423	ENOG4107RI0	136	130	E	Chorismate mutase	15	A519
+7425	ENOG4107RIV	149	149	F	Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP) (By similarity)	15	A519
+7428	ENOG41087PP	223	138	CG	glycosyltransferase MGT family	15	A492
+7430	ENOG41088BF	4	4	P	TonB-dependent Receptor Plug	15	A519
+7433	ENOG4105C5Z	495	289	E	peptidase	15	A519
+7451	ENOG4107T3S	3	3	E	Carbon-nitrogen hydrolase	15	A519
+7453	ENOG4107T3Z	78	77	U	MotA TolQ exbB proton channel	15	A519
+7454	ENOG4107T3A	132	131	S	udp-2,3-diacylglucosamine hydrolase	15	A519
+7457	ENOG4107T36	86	85	S	ribonuclease bn	15	A519
+7484	ENOG4106UZW	7	7	S		15	A519
+7486	ENOG4105DYF	67	45	M	Outer membrane efflux protein	15	A519
+7490	ENOG4105D78	921	673	T	K07001 NTE family protein	15	A457
+7491	ENOG4108QP9	26	25	P	phosphate-selective porin O and P	15	A519
+7492	ENOG4108IJ1	553	468	M	Dehydrogenase	15	A519
+7493	ENOG4105DN9	261	219	P	Na H antiporter	15	A519
+7498	ENOG41063VJ	40	40	S	Protein of unknown function (DUF1292)	15	A356
+7499	ENOG4105DNY	404	396	S	Beta-lactamase domain protein	15	A519
+7508	ENOG4105NSB	54	53	H	Thiamine monophosphate synthase	15	A519
+7509	ENOG4105NSN	41	38	S	Membrane	15	A519
+7510	ENOG4108V47	20	16	S	Antirestriction protein	15	A519
+7513	ENOG4107RK4	108	105	M	mandelate racemase muconate lactonizing	15	A519
+7514	ENOG4107RKD	2	2	O	Uncharacterized protein family (UPF0051)	15	A519
+7538	ENOG4108UI8	84	82	S	-acetyltransferase	15	A502
+7548	ENOG4105DM1	159	146	S	type i phosphodiesterase nucleotide pyrophosphatase	15	A519
+7551	ENOG4105P0I	284	276	S	Adenylate cyclase	15	A519
+7560	ENOG4105MSB	343	288	S	protein, conserved in bacteria	15	A519
+7567	ENOG4105HDN	25	25	P	Ion channel	15	A519
+7571	ENOG4107W5H	11	11	G	transporter major facilitator family protein	15	A519
+7580	ENOG4105TNC	314	280	S	Membrane	15	A519
+7585	ENOG4108KV5	41	35	V	Mate efflux family protein	15	A519
+7586	ENOG4108M2Y	26	20	L	site-specific recombinase, phage integrase family	15	A502
+7588	ENOG4108PPU	50	49	S	Sulfotransferase domain	15	A519
+7589	ENOG4107STY	183	103	V	abc transporter permease protein	15	A519
+7601	ENOG4105YH3	40	40	U	Preprotein translocase SecE subunit	15	A519
+7610	ENOG41074I2	27	12	S	DNA-binding protein	15	A519
+7611	ENOG41069CA	11	10	S		15	A519
+7614	ENOG4107UAS	3	3	M	gdp-l-fucose synthase	15	A519
+7617	ENOG4108RR5	33	30	S		15	A519
+7620	ENOG4105N9M	16	14	S	domain protein	15	A519
+7626	ENOG4107R0I	148	146	M	Cell wall formation (By similarity)	15	A519
+7630	ENOG4108PWQ	9	8	S	SusD family	15	A519
+7649	ENOG4105FYR	31	31	S		15	A519
+7650	ENOG4105FYV	347	341	F	Amp nucleosidase	15	A519
+7661	ENOG4108S0S	518	509	M	Nucleotidyl transferase	15	A519
+7665	ENOG4108Y6Q	43	29	S	conjugative transposon protein TraF	15	A519
+7666	ENOG4107ZWY	2	2	P	Sodium/hydrogen exchanger family	15	A519
+7670	ENOG4105RGC	56	56	C	F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity)	15	A519
+7681	ENOG4107JMK	3	2	K	Inherit from NOG: Transcriptional regulator	15	A519
+7684	ENOG4105H1T	41	41	S		15	A519
+7689	ENOG41065GQ	13	13	S	Protein of unknown function (DUF3408)	15	A519
+7691	ENOG4108YC4	55	55	S	DNA alkylation repair enzyme	15	A519
+7706	ENOG4108WYU	14	13	S		15	A519
+7717	ENOG4105KW6	1052	1023	J	This is one of the proteins that binds to the 5S RNA in the ribosome where it forms part of the central protuberance (By similarity)	15	A519
+7724	ENOG4106B48	15	13	S		15	A500
+7726	ENOG4107SE4	181	174	M	UDP-N-acetylglucosamine 2-epimerase	15	A502
+7728	ENOG4106WJA	2	2	S		15	A519
+7729	ENOG4108J69	4	3	M	exopolysaccharide biosynthesis	15	A519
+7735	ENOG4108HIT	22	21	S		15	A519
+7755	ENOG4105EBR	634	334	I	Carboxylesterase	15	A502
+7760	ENOG4105WXV	107	105	J	50S ribosomal protein L32	15	A519
+7772	ENOG4108GFT	113	112	S	osta family	15	A519
+7775	ENOG4107SWN	2	2	G	Alpha amylase, C-terminal all-beta domain	15	A519
+7778	ENOG4105VEJ	480	473	J	Heat shock protein	15	A519
+7781	ENOG4105F7S	97	97	S	peptidase m28	15	A519
+7801	ENOG4107RVY	155	143	S	Filamentation induced by cAMP protein fic	15	A519
+7804	ENOG4107EKF	87	87	S	-acetyltransferase	15	A519
+7811	ENOG4108TMK	23	23	M	tonB-dependent Receptor	15	A519
+7824	ENOG4105J8I	129	126	L	CRISPR-associated protein Csd1 family	15	A502
+7828	ENOG4107S84	22	21	C	binding domain protein	15	A519
+7829	ENOG4107S8B	2	2	E	Cys/Met metabolism PLP-dependent enzyme	15	A519
+7832	ENOG4108NMH	29	26	S	tonB-dependent Receptor	15	A519
+7844	ENOG41082AA	3	3	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	15	A502
+7846	ENOG4108R2R	37	37	S		15	A519
+7851	ENOG4107RMK	165	156	C	Delta-1-pyrroline-5-carboxylate dehydrogenase	15	A519
+7858	ENOG4105E1F	1178	664	S	short-chain dehydrogenase reductase	15	A361
+7863	ENOG4105E15	615	550	G	Specifically catalyzes the cleavage of the D-lactyl ether substituent of MurNAc 6-phosphate, producing GlcNAc 6- phosphate and D-lactate	15	A519
+7864	ENOG4108PZB	34	32	M	Outer membrane efflux protein	15	A519
+7868	ENOG4108TZH	6	6	S	SusD family	15	A519
+7869	ENOG4106V3I	3	3	S		15	A519
+7870	ENOG410664F	7	5	S		15	A519
+7877	ENOG4108ZPA	39	35	S	Clostripain	15	A519
+7878	ENOG4108ZPR	98	95	S	(CBS) domain	15	A500
+7879	ENOG4108ZPQ	229	228	S	MazG nucleotide pyrophosphohydrolase	15	A519
+7881	ENOG41075EN	121	119	S	membrane protein involved in aromatic hydrocarbon degradation	15	A519
+7884	ENOG4105KS1	33	33	S	Inherit from NOG: Membrane	15	A519
+7888	ENOG4105DUT	170	142	G	Major Facilitator	15	A360
+7892	ENOG4105DU9	93	92	S	repeat-containing protein	15	A519
+7894	ENOG4105DU5	35	33	EM	N-acetylneuraminate lyase	15	A519
+7897	ENOG4108C1J	36	26	P	TonB-dependent receptor Plug	15	A519
+7902	ENOG4108JIP	281	227	C	Produces ATP from ADP in the presence of a proton gradient across the membrane. The V-type beta chain is a regulatory subunit (By similarity)	15	A502
+7923	ENOG4108V0C	263	169	S	KWG leptospira repeat protein	15	A500
+7934	ENOG4108H3K	19	19	C	ATP synthase alpha beta family, nucleotide-binding domain protein	15	A519
+7940	ENOG41068ZA	26	26	S		15	A519
+7945	ENOG4106M8B	19	11	T	Histidine kinase	15	A519
+7946	ENOG4106M8E	20	14	T	sigma factor regulatory protein, FecR PupR family	15	A519
+7949	ENOG41083ND	153	152	J	50S ribosomal protein L33	15	A519
+7953	ENOG410864M	74	74	J	50S ribosomal protein L36	15	A519
+7978	ENOG4108QGA	15	15	L	Integrase	15	A519
+7979	ENOG4108QGG	21	21	S		15	A492
+7982	ENOG4108NFW	19	18	F	hydrolase, Nudix family	15	A519
+7988	ENOG4105CD5	814	569	C	CoA-binding domain protein	15	A519
+7989	ENOG4105CDD	425	326	S	Phospholipid glycerol acyltransferase	15	A519
+7996	ENOG4108VEF	63	63	S		15	A519
+8001	ENOG4108M6B	85	51	E	Glycosyl Hydrolase Family 88	15	A519
+8005	ENOG4107VTH	11	11	E	serine O-acetyltransferase (EC 2.3.1.30)	15	A492
+8007	ENOG4108P4S	46	43	S		15	A519
+8016	ENOG41068GN	12	11	S		15	A519
+8029	ENOG4108W00	10	10	S		15	A519
+8033	ENOG4106IDJ	4	4	S		15	A519
+8051	ENOG4105CQB	1940	930	C	FAD linked oxidase domain protein	15	A492
+8053	ENOG4105CQE	131	81	S	ragb susd domaiN-containing protein	15	A519
+8057	ENOG4108RVF	143	125	K	Transcriptional regulator	15	A500
+8061	ENOG4105N5X	183	87	S	membrane	15	A519
+8062	ENOG4105F98	138	72	S	Ragb susd domain-containing protein	15	A519
+8075	ENOG4108VDB	18	18	D	CobQ CobB MinD ParA nucleotide binding domain protein	15	A502
+8088	ENOG4105KNA	207	159	J	-acetyltransferase	15	A361
+8090	ENOG4105KNU	133	132	S	Protein of unknown function (DUF3467)	15	A519
+8126	ENOG4106YZE	38	31	S	Protein of unknown function (DUF418)	15	A519
+8134	ENOG4106FYZ	12	12	P	Heavy metal-associated domain protein	15	A519
+8135	ENOG4106FYP	22	22	S		15	A519
+8166	ENOG4105EFM	103	101	S		15	A519
+8168	ENOG4105EFK	38	37	M	Inherit from COG: Glycosyl Hydrolase Family 88	15	A519
+8171	ENOG41081DY	108	107	S	ribosomal subunit Interface protein	15	A519
+8174	ENOG4107Y0Z	12	9	Q	acetyl xylan esterase	15	A519
+8180	ENOG4106JW5	10	8	S	ragb susd domaiN-containing protein	15	A519
+8196	ENOG4108SAQ	27	27	K	Transcriptional regulator	15	A519
+8201	ENOG4105F3A	44	38	G	Coagulation factor 5 8 type domain protein	15	A519
+8208	ENOG4107EGJ	74	43	S	Ragb susd domain-containing protein	15	A519
+8210	ENOG4105VZE	64	63	S	doxx family	15	A519
+8224	ENOG4108TAQ	37	35	S	abc transporter atp-binding protein	15	A519
+8229	ENOG4105CBV	52	51	P	receptor	15	A519
+8231	ENOG4107TPD	22	22	D	SpoIID LytB domain protein	15	A519
+8232	ENOG4107TP0	18	17	S		15	A519
+8240	ENOG41086ZE	13	12	M	TonB family	15	A519
+8244	ENOG410683M	52	44	S	YopX protein	15	A502
+8246	ENOG4105IZX	12	12	S		15	A519
+8247	ENOG4105IZS	14	14	S		15	A519
+8248	ENOG4105IZH	37	35	S	-acetyltransferase	15	A519
+8255	ENOG41082U1	133	132	U	Preprotein translocase YajC subunit	15	A519
+8256	ENOG4107S47	294	289	J	Specifically methylates the adenine in position 37 of tRNA(1)(Val) (anticodon cmo5UAC) (By similarity)	15	A519
+8263	ENOG4108NIA	12	12	S	RibD C-terminal domain	15	A519
+8264	ENOG4108NIN	14	14	T	ATPase histidine kinase DNA gyrase B HSP90 domain protein	15	A519
+8278	ENOG4107RAY	46	39	M	Capsular exopolysaccharide family	15	A360
+8279	ENOG4107RAN	263	213	O	Peptidase, M16	15	A519
+8287	ENOG4105E5B	30	27	S	Cdp-alcohol phosphatidyltransferase	15	A519
+8289	ENOG4105E5X	115	113	T	Histidine kinase	15	A519
+8294	ENOG4105Q8A	46	46	S	outer membrane lipoprotein carrier protein	15	A519
+8306	ENOG4105X1N	322	229	M	Glycosyl transferase family 8	15	A492
+8312	ENOG4108ZTF	14	12	G	pfkb domain protein	15	A519
+8323	ENOG4105DQC	373	217	G	protein, conserved in bacteria	15	A519
+8326	ENOG4108N43	121	120	S	Mammalian cell entry related domain protein	15	A519
+8334	ENOG4107XKQ	114	113	S	Phosphodiesterase, mj0936 family	15	A519
+8343	ENOG4105NK8	184	171	K	RNA Polymerase	15	A519
+8354	ENOG4106YKZ	6	6	S		15	A519
+8366	ENOG4108CH9	2	2	V	N-6 DNA Methylase	15	A356
+8374	ENOG4105MKX	172	106	M	n-acetylmuramoyl-l-alanine amidase	15	A519
+8390	ENOG4106CXU	87	42	S	(LipO)protein	15	A519
+8421	ENOG4105D4B	275	186	G	ABC, transporter	15	A502
+8424	ENOG4107I73	8	6	S	Sel1 repeat	15	A500
+8442	ENOG4107QRB	59	58	E	Selenate reductase, YgfK	15	A502
+8443	ENOG4107QR2	118	116	L	DNA polymerase iii	15	A519
+8449	ENOG4105CUI	459	448	M	Catalyzes the interconversion between ADP-D-glycero- beta-D-manno-heptose and ADP-L-glycero-beta-D-manno-heptose via an epimerization at carbon 6 of the heptose (By similarity)	15	A457
+8462	ENOG4106H67	32	29	S		15	A519
+8466	ENOG4106NBS	5	5	S	Protein of unknown function (DUF3575)	15	A519
+8467	ENOG4105CP6	120	118	S		15	A519
+8468	ENOG4105GGZ	72	60	S		15	A519
+8481	ENOG4105YU6	36	30	G	hydrolase, family 76	15	A519
+8508	ENOG4105G9F	79	79	M	outer membrane chaperone Skp (OmpH)	15	A519
+8520	ENOG4108I9K	69	69	P	permease protein	15	A519
+8524	ENOG4106XYX	30	22	P	TonB-dependent receptor Plug	15	A519
+8527	ENOG4105M3Z	218	176	T	response regulator	15	A500
+8533	ENOG41072M3	19	17	G	transporter major facilitator family protein	15	A519
+8553	ENOG4108MR7	111	79	S	Arylsulfotransferase	15	A519
+8556	ENOG4107PP3	206	167	E	Acetylornithine deacetylase	15	A360
+8557	ENOG4108R0A	68	67	S		15	A519
+8565	ENOG4108YNR	48	48	S	Uncharacterized ACR, COG1399	15	A519
+8576	ENOG4108TPY	74	56	S	TonB family	15	A519
+8577	ENOG41068E0	10	8	S	Ragb susd domain-containing protein	15	A519
+8599	ENOG4106XP3	4	4	S		15	A519
+8618	ENOG4105ZWQ	34	34	S		15	A519
+8629	ENOG41071AC	140	138	S	BatD protein	15	A519
+8632	ENOG4106871	8	6	S	Domain of unknown function (DUF1735)	15	A519
+8639	ENOG4107S09	11	10	M	Arylsulfatase	15	A519
+8641	ENOG4107S0X	97	91	S	alpha-2-macroglobulin	15	A519
+8645	ENOG4108SP9	27	21	S	OmpA family	15	A519
+8653	ENOG4108NEE	47	42	M	chain length determinant protein	15	A519
+8654	ENOG4105D6J	699	600	P	arsenicaL-resistance protein	15	A502
+8655	ENOG4105D60	959	749	M	lipoprotein releasing system transmembrane protein	15	A457
+8667	ENOG4107X4E	28	28	S	HAD hydrolase, family IA, variant 3	15	A519
+8668	ENOG4107X49	5	5	EG	EamA-like transporter family	15	A519
+8676	ENOG4107U6F	33	33	S	Prephenate dehydrogenase	15	A519
+8682	ENOG4107REN	90	90	E	Carbamoyltransferase	15	A519
+8683	ENOG410854X	7	7	K	HTH_XRE	15	A500
+8685	ENOG41069J2	182	177	S	Hydrolase	15	A519
+8703	ENOG4107X8C	131	119	M	Efflux transporter RND family MFP subunit	15	A356
+8707	ENOG4108IAB	612	597	T	Phoh family	15	A519
+8711	ENOG4106MU9	10	8	M	TonB-linked outer membrane protein, SusC RagA family	15	A519
+8717	ENOG4105K7Y	19	19	S	lipolytic protein G-D-S-L family	15	A519
+8719	ENOG4105IKY	30	28	S	Domain of unknown function (DUF3332)	15	A519
+8729	ENOG4105DMY	241	188	M	Choloylglycine hydrolase	15	A519
+8731	ENOG4106GH8	11	9	S		15	A356
+8734	ENOG4107R07	28	27	S	HipA domain protein	15	A519
+8735	ENOG4107R0N	70	68	M	Outer membrane efflux protein	15	A519
+8736	ENOG4107R0B	245	243	S	ComEC rec2-like protein	15	A519
+8737	ENOG4107R0D	70	69	S	fad dependent oxidoreductase	15	A519
+8755	ENOG4108B1Q	93	92	S	Ribonuclease	15	A519
+8758	ENOG4108UE2	11	7	S	O-Antigen Polymerase	15	A519
+8766	ENOG4108NX6	80	62	K	transcriptional regulator laci family	15	A519
+8768	ENOG4105DKS	265	209	L	phage plasmid primase, p4 family	15	A492
+8769	ENOG4105DKW	589	533	P	ABC transporter	15	A519
+8779	ENOG4106UMM	7	5	P	TonB-linked outer membrane protein, SusC RagA family	15	A519
+8784	ENOG410802S	28	18	L	Integrase core domain protein	15	A457
+8790	ENOG4107QI5	279	260	C	succinate dehydrogenase fumarate reductase iron-sulfur subunit	15	A519
+8797	ENOG4105J1I	11	9	S		15	A519
+8812	ENOG4108KZF	8	8	T	Histidine kinase	15	A519
+8814	ENOG4108BNB	2	2	L	Inherit from COG: transposase	15	A356
+8830	ENOG4105GRC	302	101	L	Transposase	15	A492
+8835	ENOG4108I55	3	3	K	Aminotransferase class I and II	15	A356
+8840	ENOG4105CNR	1080	931	C	NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)	15	A356
+8848	ENOG41075BV	15	15	S		15	A519
+8856	ENOG4108H3U	20	19	G	4-alpha-glucanotransferase	15	A519
+8871	ENOG4106NFN	6	5	S	Pfam:DUF1812	15	A519
+8881	ENOG41084FV	9	9	J	Inherit from COG: -acetyltransferase	15	A502
+8898	ENOG4105RSY	101	86	P	tonB-dependent Receptor	15	A519
+8900	ENOG410605H	68	68	U	Preprotein translocase SecG subunit	15	A519
+8911	ENOG4108HVP	2	2	T	ATPase histidine kinase DNA gyrase B HSP90 domain protein	15	A519
+8912	ENOG4107UJB	41	40	G	)-transporter	15	A519
+8914	ENOG4106VXP	8	7	KT	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	15	A492
+8930	ENOG4108WE7	34	34	S		15	A519
+8934	ENOG4106JJF	2	2	P	Secretin and TonB N terminus short domain	15	A519
+8950	ENOG4108JJ7	356	322	V	ABC transporter	15	A492
+8955	ENOG4108XDH	60	60	S	Protein of unknown function (DUF3078)	15	A519
+8963	ENOG4107SYN	9	9	G	Glycosyl hydrolases family 43	15	A519
+8968	ENOG4105RNI	33	33	S	Protein of unknown function (DUF721)	15	A519
+8970	ENOG410647Z	97	96	S	gliding motility-associated lipoprotein GldH	15	A519
+8974	ENOG4108R4Z	751	741	O	Functions in the N-end rule pathway of protein degradation where it conjugates Leu, Phe and, less efficiently, Met from aminoacyl-tRNAs to the N-termini of proteins containing an N-terminal arginine or lysine (By similarity)	15	A492
+8978	ENOG4106VEU	4	4	S		15	A519
+8986	ENOG4105ENY	118	107	E	Ethanolamine utilization protein eutH	15	A502
+8989	ENOG4105ENH	495	225	P	Sulfatase	15	A519
