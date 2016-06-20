@@ -131,3 +131,29 @@ colnames(auc_inhibition_mat) = paste0("Spent",asfIDs)
 rownames(auc_inhibition_mat) = paste0("ASF",asfIDs)
 write.table(auc_inhibition_mat, file = "auc_inhibitions_all_pairs.tsv", sep = "\t", quote=FALSE, row.names = TRUE, col.names = TRUE)
 
+
+#-----------------------------------------------------------------
+# Write AUC inhibition table in edge-wise format for plotting
+#-----------------------------------------------------------------
+fileConn = file("ASF_AUC_interaction_net.txt")
+lineList = c()
+for(i in asfIDs)
+{
+  for(j in asfIDs)
+  {
+    # Species i grown in spent j
+    type = -1
+    if(auc_inhibition_mat[match(i,asfIDs),match(j,asfIDs)] > 0)
+    {
+      type = 1
+    }
+    
+    lineList = c(lineList, paste(j,abs(auc_inhibition_mat[match(i,asfIDs),match(j,asfIDs)]),type,'TRUE',i) )
+  }
+}
+
+writeLines(lineList, fileConn)
+close(fileConn)
+
+
+
