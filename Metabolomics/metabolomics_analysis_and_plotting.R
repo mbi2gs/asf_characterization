@@ -363,8 +363,8 @@ dev.off()
 #------------------------------------------
 # Create example metabolite plot for figure
 #------------------------------------------
-s = 519
-m = 356
+s = 356
+m = 519
 # Name of SpentA
 tmpSpentA_name = paste0(m,'in',0)
 # Name of BinSpentA
