@@ -222,7 +222,7 @@ dev.off()
 library(pheatmap)
 library(RColorBrewer)
 
-col.pal.fn = colorRampPalette(c('blue','red'),bias=1,space='rgb',interpolate ='linear')
+col.pal.fn = colorRampPalette(c('blue','white','white','red'),bias=1,space='rgb',interpolate ='linear')
 col.pal = col.pal.fn(10)
 fontsize = 15
 
@@ -305,7 +305,6 @@ do.call("pheatmap", hm.parameters)
 #-----------------------------------------------------------------
 # Put all interaction data (growth and metabolomics) in a single plot
 #-----------------------------------------------------------------
-
 # Plot the underlying heatmap
 growth_rate_inhibition = read.table('..\\GrowthCurves\\auc_inhibitions_all_pairs.tsv',sep='\t',header=T,row.names=1)
 growth_rate_inhibition_df = melt(growth_rate_inhibition,id=c())
@@ -347,7 +346,7 @@ for(s in species)
     
     p1 = ggplot(tmp_df, aes(x=x, y=y)) + 
       geom_tile(aes(fill=z)) + 
-      scale_fill_gradient(limits=c(min(RI_zm_thresh_known),max(RI_zm_thresh_known)),low="blue", high="red", na.value = NA) +
+      scale_fill_gradient2(limits=c(min(RI_zm_thresh_known),max(RI_zm_thresh_known)),low="blue", mid="white", high="red", na.value = NA) +
       coord_polar() +
       theme(axis.text = element_blank(), axis.title = element_blank(), axis.ticks = element_blank(),
             panel.grid = element_blank(), legend.position="none",
@@ -356,11 +355,40 @@ for(s in species)
     
     # Plot
     #print(p1)
-    print(p1, vp=viewport(width=.24,height=.24,x=.316+(xc-1)*(0.1145),y=0.025+(7-yc)*(0.1217), just=c("right","bottom")) )
+    print(p1, vp=viewport(width=.18,height=.18,x=.267+(xc-1)*(0.122),y=0.033+(7-yc)*(0.1297), just=c("right","bottom")) )
   }
 }
 dev.off()
 
+#------------------------------------------
+# Create example metabolite plot for figure
+#------------------------------------------
+s = 519
+m = 356
+# Name of SpentA
+tmpSpentA_name = paste0(m,'in',0)
+# Name of BinSpentA
+tmpBinSpentA_name = paste0(s,'in',m)
+# Make empty data frame
+xc = match(m,species)
+yc = match(s,species)
+tmp_df = data.frame(x=rep(1:36,times=3),y=rep(1:3,each=36),z=rep(NA,108))
+
+# Populate data frame with z-scores from spentA and BinSpentA
+tmpSpentA = RI_zm_thresh_known[row.names(RI_zm_thresh_known) == tmpSpentA_name,]
+tmpBinSpentA = RI_zm_thresh_known[row.names(RI_zm_thresh_known) == tmpBinSpentA_name,]
+tmp_df$z[tmp_df$y == 2] = as.numeric(tmpSpentA)
+tmp_df$z[tmp_df$y == 3] = as.numeric(tmpBinSpentA)
+
+p1 = ggplot(tmp_df, aes(x=x, y=y)) + 
+  geom_tile(aes(fill=z)) + 
+  scale_fill_gradient2(limits=c(min(RI_zm_thresh_known),max(RI_zm_thresh_known)),low="blue", mid="white", high="red", na.value = NA) +
+  coord_polar() +
+  theme(axis.text = element_blank(), axis.title = element_blank(), axis.ticks = element_blank(),
+        panel.background = element_rect(fill = "transparent",colour = NA), 
+        plot.background = element_rect(fill = "transparent",colour = NA))
+
+ggsave('example_plot.tiff',width=6,height=4)
 
 #-----------------------------------------------------------------
 # Count the various categories of metabolite profiles
